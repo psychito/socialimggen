@@ -1,17 +1,14 @@
-// /api/tweet-image.tsx
 import { ImageResponse } from '@vercel/og'
 
-export const config = {
-  runtime: 'edge'
-}
+export const config = { runtime: 'edge' }
 
 export default async function handler(req: Request) {
   const { searchParams } = new URL(req.url)
 
-  const texto = searchParams.get('texto') || 'Este es un tweet de ejemplo generado con Vercel.'
-  const usuario = searchParams.get('usuario') || '@lexurbina'
-  const nombre = searchParams.get('nombre') || 'Lex Urbina'
-  const avatar = searchParams.get('avatar') || 'https://lexurbina.com/wp-content/uploads/2025/04/AlexanderUrbina200x200.jpg'
+  const texto = searchParams.get('texto') || 'Este es un tweet de ejemplo'
+  const usuario = searchParams.get('usuario') || '@usuario'
+  const nombre = searchParams.get('nombre') || 'Nombre Apellido'
+  const avatar = searchParams.get('avatar') || 'https://avatars.githubusercontent.com/u/583231?v=4'
 
   return new ImageResponse(
     (
@@ -25,7 +22,7 @@ export default async function handler(req: Request) {
           display: 'flex',
           flexDirection: 'column',
           fontFamily: 'sans-serif',
-          fontSize: 30,
+          fontSize: 30
         }}
       >
         <div style={{ display: 'flex', alignItems: 'center', gap: 20 }}>
@@ -40,7 +37,7 @@ export default async function handler(req: Request) {
             <div style={{ fontSize: 24, color: '#ccc' }}>{usuario}</div>
           </div>
         </div>
-        <div style={{ marginTop: 40, lineHeight: 1.4 }}>{texto}</div>
+        <div style={{ marginTop: 40 }}>{texto}</div>
       </div>
     ),
     {
