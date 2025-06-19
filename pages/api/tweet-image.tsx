@@ -8,7 +8,7 @@ export default async function handler(req: Request) {
   const texto = searchParams.get('texto') || 'Este es un tweet de ejemplo'
   const usuario = searchParams.get('usuario') || '@usuario'
   const nombre = searchParams.get('nombre') || 'Nombre Apellido'
-  const avatar = searchParams.get('avatar') || 'https://avatars.githubusercontent.com/u/583231?v=4'
+  const avatar = searchParams.get('avatar') || 'https://lexurbina.com/wp-content/uploads/2025/04/AlexanderUrbina200x200.jpg'
 
   return new ImageResponse(
     (
