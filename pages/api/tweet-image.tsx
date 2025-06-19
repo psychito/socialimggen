@@ -11,7 +11,7 @@ export default async function handler(req: Request) {
   const texto = searchParams.get('texto') || 'Este es un tweet de ejemplo generado con Vercel.'
   const usuario = searchParams.get('usuario') || '@lexurbina'
   const nombre = searchParams.get('nombre') || 'Lex Urbina'
-  const avatar = searchParams.get('avatar') || 'https://upload.wikimedia.org/wikipedia/commons/7/70/User_icon_BLACK-01.svg'
+  const avatar = searchParams.get('avatar') || 'https://lexurbina.com/wp-content/uploads/2025/04/AlexanderUrbina200x200.jpg'
 
   return new ImageResponse(
     (
