@@ -1,13 +1,11 @@
 import { ImageResponse } from '@vercel/og'
 
-export const config = {
-  runtime: 'edge'
-}
+export const config = { runtime: 'edge' }
 
 export default async function handler(req: Request) {
   const { searchParams } = new URL(req.url)
 
-  const texto = searchParams.get('texto') || 'Você sabe quem realiza mais exames de saúde preventiva?'
+  const texto = searchParams.get('texto') || 'texto'
   const usuario = searchParams.get('usuario') || '@usuario'
   const nombre = searchParams.get('nombre') || 'Nombre Apellido'
   const avatar = searchParams.get('avatar') || 'https://cdn-icons-png.flaticon.com/512/149/149071.png'
@@ -54,8 +52,8 @@ export default async function handler(req: Request) {
           {texto}
         </div>
 
-        {/* Hashtags + métrica */}
-        <div style={{ marginTop: 60, fontSize: 22, color: '#1da1f2' }}>
+        {/* Hashtags */}
+        <div style={{ marginTop: 40, fontSize: 22, color: '#1da1f2' }}>
           {hashtags.map((tag, i) => (
             <span key={i} style={{ marginRight: 15 }}>{tag}</span>
           ))}
