@@ -20,5 +20,11 @@
     "@types/react-dom": "^19",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4"
+  },
+  "name": "socialimggen",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@vercel/og": "^0.6.1"
   }
 }
