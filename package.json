@@ -26,5 +26,4 @@
   "type": "module",
   "dependencies": {
     "@vercel/og": "^0.6.1"
-  }
 }
