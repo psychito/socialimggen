@@ -1,0 +1,420 @@
+{"ip":"::1","level":"info","message":"[cf3db2bb-1181-41cc-93f3-04adf50b09ca] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[cf3db2bb-1181-41cc-93f3-04adf50b09ca] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[d21e5a1a-a9b8-4141-8132-7ecd27c5990a] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[d21e5a1a-a9b8-4141-8132-7ecd27c5990a] Parámetros validados:","textLength":36,"username":"@alex"}
+{"level":"info","message":"[d21e5a1a-a9b8-4141-8132-7ecd27c5990a] Iniciando generación de imagen..."}
+{"level":"info","message":"[d21e5a1a-a9b8-4141-8132-7ecd27c5990a] Imagen generada exitosamente en 275ms","outputPath":"http://localhost:3000/output/social-image-d21e5a1a-a9b8-4141-8132-7ecd27c5990a.png"}
+{"ip":"::1","level":"info","message":"[6499c042-2bd3-44bf-8191-5382e084328c] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[6499c042-2bd3-44bf-8191-5382e084328c] Parámetros validados:","textLength":47,"username":"@alex"}
+{"level":"info","message":"[6499c042-2bd3-44bf-8191-5382e084328c] Iniciando generación de imagen..."}
+{"level":"info","message":"[6499c042-2bd3-44bf-8191-5382e084328c] Imagen generada exitosamente en 255ms","outputPath":"http://localhost:3000/output/social-image-6499c042-2bd3-44bf-8191-5382e084328c.png"}
+{"ip":"::1","level":"info","message":"[d80072d4-14d3-44ec-b154-f137f8dd60c1] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[d80072d4-14d3-44ec-b154-f137f8dd60c1] Parámetros validados:","textLength":30,"username":"@alex"}
+{"level":"info","message":"[d80072d4-14d3-44ec-b154-f137f8dd60c1] Iniciando generación de imagen..."}
+{"level":"info","message":"[d80072d4-14d3-44ec-b154-f137f8dd60c1] Imagen generada exitosamente en 130ms","outputPath":"http://localhost:3000/output/social-image-d80072d4-14d3-44ec-b154-f137f8dd60c1.png"}
+{"ip":"::1","level":"info","message":"[08134c9c-29d6-4f2c-84b6-0f2cce21efe4] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[08134c9c-29d6-4f2c-84b6-0f2cce21efe4] Parámetros validados:","textLength":26,"username":"@alex"}
+{"level":"info","message":"[08134c9c-29d6-4f2c-84b6-0f2cce21efe4] Iniciando generación de imagen..."}
+{"level":"info","message":"[08134c9c-29d6-4f2c-84b6-0f2cce21efe4] Imagen generada exitosamente en 124ms","outputPath":"http://localhost:3000/output/social-image-08134c9c-29d6-4f2c-84b6-0f2cce21efe4.png"}
+{"ip":"::1","level":"info","message":"[ec337bc7-60ff-44a8-9327-fa1bfb17d1d2] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"likes debe ser un número","1":"retweets debe ser un número","level":"warn","message":"[ec337bc7-60ff-44a8-9327-fa1bfb17d1d2] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[0c8f5d0b-cb85-4a85-97bf-bed5da3ca834] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"retweets debe ser un número","level":"warn","message":"[0c8f5d0b-cb85-4a85-97bf-bed5da3ca834] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[876c58ca-2a20-4d4e-96f0-75639fcbcfeb] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"retweets debe ser un número","level":"warn","message":"[876c58ca-2a20-4d4e-96f0-75639fcbcfeb] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[e7276627-bb7a-4731-9223-11beef9ffd4b] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"retweets debe ser un número","level":"warn","message":"[e7276627-bb7a-4731-9223-11beef9ffd4b] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[03d435a4-4f07-4b13-a4c9-088241fe12bc] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[03d435a4-4f07-4b13-a4c9-088241fe12bc] Parámetros validados:","textLength":26,"username":"@alex"}
+{"level":"info","message":"[03d435a4-4f07-4b13-a4c9-088241fe12bc] Iniciando generación de imagen..."}
+{"level":"info","message":"[03d435a4-4f07-4b13-a4c9-088241fe12bc] Imagen generada exitosamente en 269ms","outputPath":"http://localhost:3000/output/social-image-03d435a4-4f07-4b13-a4c9-088241fe12bc.png"}
+{"ip":"::1","level":"info","message":"[5123c4ad-ef64-45e9-9ff5-17564ca59a25] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[5123c4ad-ef64-45e9-9ff5-17564ca59a25] Parámetros validados:","textLength":16,"username":"@alex"}
+{"level":"info","message":"[5123c4ad-ef64-45e9-9ff5-17564ca59a25] Iniciando generación de imagen..."}
+{"level":"info","message":"[5123c4ad-ef64-45e9-9ff5-17564ca59a25] Imagen generada exitosamente en 112ms","outputPath":"http://localhost:3000/output/social-image-5123c4ad-ef64-45e9-9ff5-17564ca59a25.png"}
+{"ip":"::1","level":"info","message":"[5dc31cee-cb82-41e8-be4c-d9424e9f4003] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[5dc31cee-cb82-41e8-be4c-d9424e9f4003] Parámetros validados:","textLength":18,"username":"@alex"}
+{"level":"info","message":"[5dc31cee-cb82-41e8-be4c-d9424e9f4003] Iniciando generación de imagen..."}
+{"level":"info","message":"[5dc31cee-cb82-41e8-be4c-d9424e9f4003] Imagen generada exitosamente en 113ms","outputPath":"http://localhost:3000/output/social-image-5dc31cee-cb82-41e8-be4c-d9424e9f4003.png"}
+{"ip":"::1","level":"info","message":"[9abe30eb-f88e-4181-9749-267938823473] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[9abe30eb-f88e-4181-9749-267938823473] Parámetros validados:","textLength":19,"username":"@alex"}
+{"level":"info","message":"[9abe30eb-f88e-4181-9749-267938823473] Iniciando generación de imagen..."}
+{"level":"info","message":"[9abe30eb-f88e-4181-9749-267938823473] Imagen generada exitosamente en 117ms","outputPath":"http://localhost:3000/output/social-image-9abe30eb-f88e-4181-9749-267938823473.png"}
+{"ip":"::1","level":"info","message":"[969d40c8-7ada-4704-acb3-2f2da6e7179a] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[969d40c8-7ada-4704-acb3-2f2da6e7179a] Parámetros validados:","textLength":19,"username":"@alex"}
+{"level":"info","message":"[969d40c8-7ada-4704-acb3-2f2da6e7179a] Iniciando generación de imagen..."}
+{"level":"info","message":"[969d40c8-7ada-4704-acb3-2f2da6e7179a] Imagen generada exitosamente en 105ms","outputPath":"http://localhost:3000/output/social-image-969d40c8-7ada-4704-acb3-2f2da6e7179a.png"}
+{"ip":"::1","level":"info","message":"[d193c4f9-00a1-4a10-bae9-a24e79dc2b19] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[d193c4f9-00a1-4a10-bae9-a24e79dc2b19] Parámetros validados:","textLength":21,"username":"@alex"}
+{"level":"info","message":"[d193c4f9-00a1-4a10-bae9-a24e79dc2b19] Iniciando generación de imagen..."}
+{"level":"info","message":"[d193c4f9-00a1-4a10-bae9-a24e79dc2b19] Imagen generada exitosamente en 122ms","outputPath":"http://localhost:3000/output/social-image-d193c4f9-00a1-4a10-bae9-a24e79dc2b19.png"}
+{"ip":"::1","level":"info","message":"[e9c1bb4d-4c74-4977-9bb0-1e22a1c4b2a9] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[e9c1bb4d-4c74-4977-9bb0-1e22a1c4b2a9] Parámetros validados:","textLength":15,"username":"@alex"}
+{"level":"info","message":"[e9c1bb4d-4c74-4977-9bb0-1e22a1c4b2a9] Iniciando generación de imagen..."}
+{"level":"info","message":"[e9c1bb4d-4c74-4977-9bb0-1e22a1c4b2a9] Imagen generada exitosamente en 122ms","outputPath":"http://localhost:3000/output/social-image-e9c1bb4d-4c74-4977-9bb0-1e22a1c4b2a9.png"}
+{"ip":"::1","level":"info","message":"[ebc40346-4422-4624-800d-74cf1fcc55e1] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[ebc40346-4422-4624-800d-74cf1fcc55e1] Parámetros validados:","textLength":15,"username":"@alex"}
+{"level":"info","message":"[ebc40346-4422-4624-800d-74cf1fcc55e1] Iniciando generación de imagen..."}
+{"level":"info","message":"[ebc40346-4422-4624-800d-74cf1fcc55e1] Imagen generada exitosamente en 104ms","outputPath":"http://localhost:3000/output/social-image-ebc40346-4422-4624-800d-74cf1fcc55e1.png"}
+{"ip":"::1","level":"info","message":"[01615be1-a7bf-44ab-9aff-dab3bb3d7ee4] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[01615be1-a7bf-44ab-9aff-dab3bb3d7ee4] Parámetros validados:","textLength":21,"username":"@alex"}
+{"level":"info","message":"[01615be1-a7bf-44ab-9aff-dab3bb3d7ee4] Iniciando generación de imagen..."}
+{"level":"info","message":"[01615be1-a7bf-44ab-9aff-dab3bb3d7ee4] Imagen generada exitosamente en 116ms","outputPath":"http://localhost:3000/output/social-image-01615be1-a7bf-44ab-9aff-dab3bb3d7ee4.png"}
+{"ip":"::1","level":"info","message":"[a9c1ae61-4781-4f24-a971-31cbb2ad2310] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1080x1350","format":"png","level":"info","message":"[a9c1ae61-4781-4f24-a971-31cbb2ad2310] Parámetros validados:","textLength":19,"username":"@alex"}
+{"level":"info","message":"[a9c1ae61-4781-4f24-a971-31cbb2ad2310] Iniciando generación de imagen..."}
+{"level":"info","message":"[a9c1ae61-4781-4f24-a971-31cbb2ad2310] Imagen generada exitosamente en 256ms","outputPath":"http://localhost:3000/output/social-image-a9c1ae61-4781-4f24-a971-31cbb2ad2310.png"}
+{"ip":"::1","level":"info","message":"[6ed2f4a3-bf06-48ee-ac54-aa4f7c95ce03] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[6ed2f4a3-bf06-48ee-ac54-aa4f7c95ce03] Parámetros validados:","textLength":168,"username":"@lexurbinac"}
+{"level":"info","message":"[6ed2f4a3-bf06-48ee-ac54-aa4f7c95ce03] Iniciando generación de imagen..."}
+{"level":"info","message":"[6ed2f4a3-bf06-48ee-ac54-aa4f7c95ce03] Imagen generada exitosamente en 263ms","outputPath":"http://localhost:3000/output/social-image-6ed2f4a3-bf06-48ee-ac54-aa4f7c95ce03.png"}
+{"ip":"::1","level":"info","message":"[80a16a99-17d7-49f5-b0b2-3399fa3eb1ea] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[80a16a99-17d7-49f5-b0b2-3399fa3eb1ea] Parámetros validados:","textLength":168,"username":"@lexurbinac"}
+{"level":"info","message":"[80a16a99-17d7-49f5-b0b2-3399fa3eb1ea] Iniciando generación de imagen..."}
+{"level":"info","message":"[80a16a99-17d7-49f5-b0b2-3399fa3eb1ea] Imagen generada exitosamente en 280ms","outputPath":"http://localhost:3000/output/social-image-80a16a99-17d7-49f5-b0b2-3399fa3eb1ea.png"}
+{"ip":"::1","level":"info","message":"[4e6850ed-0ea9-4ff9-86e8-8e16c5b8246f] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[4e6850ed-0ea9-4ff9-86e8-8e16c5b8246f] Parámetros validados:","textLength":130,"username":"@bra.cuantico"}
+{"level":"info","message":"[4e6850ed-0ea9-4ff9-86e8-8e16c5b8246f] Iniciando generación de imagen..."}
+{"level":"info","message":"[4e6850ed-0ea9-4ff9-86e8-8e16c5b8246f] Imagen generada exitosamente en 268ms","outputPath":"http://localhost:3000/output/social-image-4e6850ed-0ea9-4ff9-86e8-8e16c5b8246f.png"}
+{"ip":"::1","level":"info","message":"[74c7b8e1-4cb8-472f-87b4-74b32de75741] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[74c7b8e1-4cb8-472f-87b4-74b32de75741] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[cdf4ce26-94be-4e9d-9805-49d43e11bf3a] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[cdf4ce26-94be-4e9d-9805-49d43e11bf3a] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[8220b1e8-c26f-4388-9130-172020f50911] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"0":"displayName es requerido","1":"timestamp es requerido","level":"warn","message":"[8220b1e8-c26f-4388-9130-172020f50911] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[1e41dbbe-828f-4f49-82f0-f7aace0ae1bb] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[1e41dbbe-828f-4f49-82f0-f7aace0ae1bb] Parámetros validados:","textLength":130,"username":"@bra"}
+{"level":"info","message":"[1e41dbbe-828f-4f49-82f0-f7aace0ae1bb] Iniciando generación de imagen..."}
+{"level":"info","message":"[1e41dbbe-828f-4f49-82f0-f7aace0ae1bb] Imagen generada exitosamente en 172ms","outputPath":"http://localhost:3000/output/social-image-1e41dbbe-828f-4f49-82f0-f7aace0ae1bb.png"}
+{"ip":"::1","level":"info","message":"[981c9fb7-296b-4e87-a8be-38c3c3f6888c] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[981c9fb7-296b-4e87-a8be-38c3c3f6888c] Parámetros validados:","textLength":16,"username":"@bra"}
+{"level":"info","message":"[981c9fb7-296b-4e87-a8be-38c3c3f6888c] Iniciando generación de imagen..."}
+{"level":"info","message":"[981c9fb7-296b-4e87-a8be-38c3c3f6888c] Imagen generada exitosamente en 178ms","outputPath":"http://localhost:3000/output/social-image-981c9fb7-296b-4e87-a8be-38c3c3f6888c.png"}
+{"ip":"::1","level":"info","message":"[b7e41a7d-5662-476b-b318-63c0b1cd1a87] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[b7e41a7d-5662-476b-b318-63c0b1cd1a87] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[b7e41a7d-5662-476b-b318-63c0b1cd1a87] Iniciando generación de imagen..."}
+{"level":"info","message":"[b7e41a7d-5662-476b-b318-63c0b1cd1a87] Imagen generada exitosamente en 133ms","outputPath":"http://localhost:3000/output/social-image-b7e41a7d-5662-476b-b318-63c0b1cd1a87.png"}
+{"ip":"::1","level":"info","message":"[cebef8fd-e623-44a1-956a-fffb77cd8024] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[cebef8fd-e623-44a1-956a-fffb77cd8024] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[cebef8fd-e623-44a1-956a-fffb77cd8024] Iniciando generación de imagen..."}
+{"level":"info","message":"[cebef8fd-e623-44a1-956a-fffb77cd8024] Imagen generada exitosamente en 107ms","outputPath":"http://localhost:3000/output/social-image-cebef8fd-e623-44a1-956a-fffb77cd8024.png"}
+{"ip":"::1","level":"info","message":"[8ff7185c-3850-4440-856f-6685d29efa39] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[8ff7185c-3850-4440-856f-6685d29efa39] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[8ff7185c-3850-4440-856f-6685d29efa39] Iniciando generación de imagen..."}
+{"level":"info","message":"[8ff7185c-3850-4440-856f-6685d29efa39] Imagen generada exitosamente en 131ms","outputPath":"http://localhost:3000/output/social-image-8ff7185c-3850-4440-856f-6685d29efa39.png"}
+{"ip":"::1","level":"info","message":"[229d561f-3260-4b39-b3c2-d27686155997] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[229d561f-3260-4b39-b3c2-d27686155997] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[229d561f-3260-4b39-b3c2-d27686155997] Iniciando generación de imagen..."}
+{"level":"info","message":"[229d561f-3260-4b39-b3c2-d27686155997] Imagen generada exitosamente en 157ms","outputPath":"http://localhost:3000/output/social-image-229d561f-3260-4b39-b3c2-d27686155997.png"}
+{"ip":"::1","level":"info","message":"[94ab5960-bd3d-49c0-bc27-bd54fa7b99ee] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[94ab5960-bd3d-49c0-bc27-bd54fa7b99ee] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[94ab5960-bd3d-49c0-bc27-bd54fa7b99ee] Iniciando generación de imagen..."}
+{"level":"info","message":"[94ab5960-bd3d-49c0-bc27-bd54fa7b99ee] Imagen generada exitosamente en 113ms","outputPath":"http://localhost:3000/output/social-image-94ab5960-bd3d-49c0-bc27-bd54fa7b99ee.png"}
+{"ip":"::1","level":"info","message":"[59a01976-1a04-41a2-a13d-eb13ceb71dd8] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[59a01976-1a04-41a2-a13d-eb13ceb71dd8] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[59a01976-1a04-41a2-a13d-eb13ceb71dd8] Iniciando generación de imagen..."}
+{"level":"info","message":"[59a01976-1a04-41a2-a13d-eb13ceb71dd8] Imagen generada exitosamente en 158ms","outputPath":"http://localhost:3000/output/social-image-59a01976-1a04-41a2-a13d-eb13ceb71dd8.png"}
+{"ip":"::1","level":"info","message":"[5097578e-0e87-46c1-bb99-702a07cf87c9] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[5097578e-0e87-46c1-bb99-702a07cf87c9] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[5097578e-0e87-46c1-bb99-702a07cf87c9] Iniciando generación de imagen..."}
+{"level":"info","message":"[5097578e-0e87-46c1-bb99-702a07cf87c9] Imagen generada exitosamente en 180ms","outputPath":"http://localhost:3000/output/social-image-5097578e-0e87-46c1-bb99-702a07cf87c9.png"}
+{"ip":"::1","level":"info","message":"[19f5e1b6-c2ad-4948-b37b-d5e04f4cb5ca] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[19f5e1b6-c2ad-4948-b37b-d5e04f4cb5ca] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[19f5e1b6-c2ad-4948-b37b-d5e04f4cb5ca] Iniciando generación de imagen..."}
+{"level":"info","message":"[19f5e1b6-c2ad-4948-b37b-d5e04f4cb5ca] Imagen generada exitosamente en 286ms","outputPath":"http://localhost:3000/output/social-image-19f5e1b6-c2ad-4948-b37b-d5e04f4cb5ca.png"}
+{"ip":"::1","level":"info","message":"[8414726c-3d7c-42f3-9aee-eb0a7068027a] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[8414726c-3d7c-42f3-9aee-eb0a7068027a] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[8414726c-3d7c-42f3-9aee-eb0a7068027a] Iniciando generación de imagen..."}
+{"level":"info","message":"[8414726c-3d7c-42f3-9aee-eb0a7068027a] Imagen generada exitosamente en 233ms","outputPath":"http://localhost:3000/output/social-image-8414726c-3d7c-42f3-9aee-eb0a7068027a.png"}
+{"ip":"::1","level":"info","message":"[76828870-5362-41c3-b52f-64960589a317] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[76828870-5362-41c3-b52f-64960589a317] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[76828870-5362-41c3-b52f-64960589a317] Iniciando generación de imagen..."}
+{"level":"info","message":"[76828870-5362-41c3-b52f-64960589a317] Imagen generada exitosamente en 177ms","outputPath":"http://localhost:3000/output/social-image-76828870-5362-41c3-b52f-64960589a317.png"}
+{"ip":"::1","level":"info","message":"[b461a99f-0fdd-4abb-b45b-42a37b56dc12] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[b461a99f-0fdd-4abb-b45b-42a37b56dc12] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[b461a99f-0fdd-4abb-b45b-42a37b56dc12] Iniciando generación de imagen..."}
+{"level":"info","message":"[b461a99f-0fdd-4abb-b45b-42a37b56dc12] Imagen generada exitosamente en 126ms","outputPath":"http://localhost:3000/output/social-image-b461a99f-0fdd-4abb-b45b-42a37b56dc12.png"}
+{"ip":"::1","level":"info","message":"[7e60804a-8a19-41db-8437-50f54cc01dfa] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[7e60804a-8a19-41db-8437-50f54cc01dfa] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[7e60804a-8a19-41db-8437-50f54cc01dfa] Iniciando generación de imagen..."}
+{"level":"info","message":"[7e60804a-8a19-41db-8437-50f54cc01dfa] Imagen generada exitosamente en 121ms","outputPath":"http://localhost:3000/output/social-image-7e60804a-8a19-41db-8437-50f54cc01dfa.png"}
+{"ip":"::1","level":"info","message":"[f4ede497-61b3-431c-b41d-10de47da9311] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[f4ede497-61b3-431c-b41d-10de47da9311] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[f4ede497-61b3-431c-b41d-10de47da9311] Iniciando generación de imagen..."}
+{"level":"info","message":"[f4ede497-61b3-431c-b41d-10de47da9311] Imagen generada exitosamente en 153ms","outputPath":"http://localhost:3000/output/social-image-f4ede497-61b3-431c-b41d-10de47da9311.png"}
+{"ip":"::1","level":"info","message":"[13cefa5b-bbed-4204-b020-23df248f78a6] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[13cefa5b-bbed-4204-b020-23df248f78a6] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[13cefa5b-bbed-4204-b020-23df248f78a6] Iniciando generación de imagen..."}
+{"level":"info","message":"[13cefa5b-bbed-4204-b020-23df248f78a6] Imagen generada exitosamente en 106ms","outputPath":"http://localhost:3000/output/social-image-13cefa5b-bbed-4204-b020-23df248f78a6.png"}
+{"ip":"::1","level":"info","message":"[5f055dfa-8901-4ad9-b192-b3d51bc707c3] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[5f055dfa-8901-4ad9-b192-b3d51bc707c3] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[5f055dfa-8901-4ad9-b192-b3d51bc707c3] Iniciando generación de imagen..."}
+{"level":"info","message":"[5f055dfa-8901-4ad9-b192-b3d51bc707c3] Imagen generada exitosamente en 152ms","outputPath":"http://localhost:3000/output/social-image-5f055dfa-8901-4ad9-b192-b3d51bc707c3.png"}
+{"ip":"::1","level":"info","message":"[831fb6a2-6158-4311-ab41-91f6cd4dcc25] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[831fb6a2-6158-4311-ab41-91f6cd4dcc25] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[831fb6a2-6158-4311-ab41-91f6cd4dcc25] Iniciando generación de imagen..."}
+{"level":"info","message":"[831fb6a2-6158-4311-ab41-91f6cd4dcc25] Imagen generada exitosamente en 125ms","outputPath":"http://localhost:3000/output/social-image-831fb6a2-6158-4311-ab41-91f6cd4dcc25.png"}
+{"ip":"::1","level":"info","message":"[72471e3b-80e3-4ee3-8172-1597e361d4cd] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[72471e3b-80e3-4ee3-8172-1597e361d4cd] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[72471e3b-80e3-4ee3-8172-1597e361d4cd] Iniciando generación de imagen..."}
+{"level":"info","message":"[72471e3b-80e3-4ee3-8172-1597e361d4cd] Imagen generada exitosamente en 94ms","outputPath":"http://localhost:3000/output/social-image-72471e3b-80e3-4ee3-8172-1597e361d4cd.png"}
+{"ip":"::1","level":"info","message":"[bde33540-c390-4a1a-a6bc-678d75daf40e] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[bde33540-c390-4a1a-a6bc-678d75daf40e] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[bde33540-c390-4a1a-a6bc-678d75daf40e] Iniciando generación de imagen..."}
+{"level":"info","message":"[bde33540-c390-4a1a-a6bc-678d75daf40e] Imagen generada exitosamente en 157ms","outputPath":"http://localhost:3000/output/social-image-bde33540-c390-4a1a-a6bc-678d75daf40e.png"}
+{"ip":"::1","level":"info","message":"[5bc78054-36b4-458f-b504-15d50c93a554] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[5bc78054-36b4-458f-b504-15d50c93a554] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[5bc78054-36b4-458f-b504-15d50c93a554] Iniciando generación de imagen..."}
+{"level":"info","message":"[5bc78054-36b4-458f-b504-15d50c93a554] Imagen generada exitosamente en 153ms","outputPath":"http://localhost:3000/output/social-image-5bc78054-36b4-458f-b504-15d50c93a554.png"}
+{"ip":"::1","level":"info","message":"[e1da9e8f-cd33-4c72-8d99-397ae765ac1b] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[e1da9e8f-cd33-4c72-8d99-397ae765ac1b] Parámetros validados:","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[e1da9e8f-cd33-4c72-8d99-397ae765ac1b] Iniciando generación de imagen..."}
+{"level":"info","message":"[e1da9e8f-cd33-4c72-8d99-397ae765ac1b] Imagen generada exitosamente en 139ms","outputPath":"http://localhost:3000/output/social-image-e1da9e8f-cd33-4c72-8d99-397ae765ac1b.png"}
+{"ip":"::1","level":"info","message":"[73af8888-1745-4286-ba37-51d6a2087872] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[73af8888-1745-4286-ba37-51d6a2087872] Parámetros validados:","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[73af8888-1745-4286-ba37-51d6a2087872] Iniciando generación de imagen..."}
+{"level":"info","message":"[73af8888-1745-4286-ba37-51d6a2087872] Imagen generada exitosamente en 130ms","outputPath":"http://localhost:3000/output/social-image-73af8888-1745-4286-ba37-51d6a2087872.png"}
+{"ip":"::1","level":"info","message":"[186ff93c-6c4e-4c56-b6e2-0a49c963774c] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[186ff93c-6c4e-4c56-b6e2-0a49c963774c] Parámetros validados:","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[186ff93c-6c4e-4c56-b6e2-0a49c963774c] Iniciando generación de imagen..."}
+{"level":"info","message":"[186ff93c-6c4e-4c56-b6e2-0a49c963774c] Imagen generada exitosamente en 89ms","outputPath":"http://localhost:3000/output/social-image-186ff93c-6c4e-4c56-b6e2-0a49c963774c.png"}
+{"ip":"::1","level":"info","message":"[ebcbe2db-b097-4cf1-8331-973e564213cf] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[ebcbe2db-b097-4cf1-8331-973e564213cf] Parámetros validados:","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[ebcbe2db-b097-4cf1-8331-973e564213cf] Iniciando generación de imagen..."}
+{"level":"info","message":"[ebcbe2db-b097-4cf1-8331-973e564213cf] Imagen generada exitosamente en 124ms","outputPath":"http://localhost:3000/output/social-image-ebcbe2db-b097-4cf1-8331-973e564213cf.png"}
+{"ip":"::1","level":"info","message":"[ba31eea1-3001-442b-b79c-0c1d4643d0ab] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[ba31eea1-3001-442b-b79c-0c1d4643d0ab] Parámetros validados:","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[ba31eea1-3001-442b-b79c-0c1d4643d0ab] Iniciando generación de imagen..."}
+{"level":"info","message":"[ba31eea1-3001-442b-b79c-0c1d4643d0ab] Imagen generada exitosamente en 296ms","outputPath":"http://localhost:3000/output/social-image-ba31eea1-3001-442b-b79c-0c1d4643d0ab.png"}
+{"ip":"::1","level":"info","message":"[c5b1f31e-f5ac-4561-99f0-129189c0787b] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[c5b1f31e-f5ac-4561-99f0-129189c0787b] Parámetros validados:","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[c5b1f31e-f5ac-4561-99f0-129189c0787b] Iniciando generación de imagen..."}
+{"level":"info","message":"[c5b1f31e-f5ac-4561-99f0-129189c0787b] Imagen generada exitosamente en 140ms","outputPath":"http://localhost:3000/output/social-image-c5b1f31e-f5ac-4561-99f0-129189c0787b.png"}
+{"ip":"::1","level":"info","message":"[d2c94f0e-8143-4c0c-ae05-f0f0ab762026] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[d2c94f0e-8143-4c0c-ae05-f0f0ab762026] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[d2c94f0e-8143-4c0c-ae05-f0f0ab762026] Iniciando generación de imagen..."}
+{"level":"info","message":"[d2c94f0e-8143-4c0c-ae05-f0f0ab762026] Imagen generada exitosamente en 168ms","outputPath":"http://localhost:3000/output/social-image-d2c94f0e-8143-4c0c-ae05-f0f0ab762026.png"}
+{"ip":"::1","level":"info","message":"[71ee367e-8ef3-42aa-8e72-a7c8fbbe9545] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[71ee367e-8ef3-42aa-8e72-a7c8fbbe9545] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[71ee367e-8ef3-42aa-8e72-a7c8fbbe9545] Iniciando generación de imagen..."}
+{"level":"info","message":"[71ee367e-8ef3-42aa-8e72-a7c8fbbe9545] Imagen generada exitosamente en 168ms","outputPath":"http://localhost:3000/output/social-image-71ee367e-8ef3-42aa-8e72-a7c8fbbe9545.png"}
+{"ip":"::1","level":"info","message":"[1abbf892-21bf-4fb8-9ace-0d0873f9d28c] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[1abbf892-21bf-4fb8-9ace-0d0873f9d28c] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[1abbf892-21bf-4fb8-9ace-0d0873f9d28c] Iniciando generación de imagen..."}
+{"level":"info","message":"[1abbf892-21bf-4fb8-9ace-0d0873f9d28c] Imagen generada exitosamente en 99ms","outputPath":"http://localhost:3000/output/social-image-1abbf892-21bf-4fb8-9ace-0d0873f9d28c.png"}
+{"ip":"::1","level":"info","message":"[69cb8896-830b-438f-84b9-f625e03983a7] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[69cb8896-830b-438f-84b9-f625e03983a7] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[69cb8896-830b-438f-84b9-f625e03983a7] Iniciando generación de imagen..."}
+{"level":"info","message":"[69cb8896-830b-438f-84b9-f625e03983a7] Imagen generada exitosamente en 372ms","outputPath":"http://localhost:3000/output/social-image-69cb8896-830b-438f-84b9-f625e03983a7.png"}
+{"ip":"::1","level":"info","message":"[bd9a37de-ae82-4b3b-94e9-0855f2e4dd8c] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[bd9a37de-ae82-4b3b-94e9-0855f2e4dd8c] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[bd9a37de-ae82-4b3b-94e9-0855f2e4dd8c] Iniciando generación de imagen..."}
+{"level":"info","message":"[bd9a37de-ae82-4b3b-94e9-0855f2e4dd8c] Imagen generada exitosamente en 172ms","outputPath":"http://localhost:3000/output/social-image-bd9a37de-ae82-4b3b-94e9-0855f2e4dd8c.png"}
+{"ip":"::1","level":"info","message":"[a32f9645-a628-4ec0-9b35-921652ffb364] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[a32f9645-a628-4ec0-9b35-921652ffb364] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[a32f9645-a628-4ec0-9b35-921652ffb364] Iniciando generación de imagen..."}
+{"level":"info","message":"[a32f9645-a628-4ec0-9b35-921652ffb364] Imagen generada exitosamente en 150ms","outputPath":"http://localhost:3000/output/social-image-a32f9645-a628-4ec0-9b35-921652ffb364.png"}
+{"ip":"::1","level":"info","message":"[dd80425c-6500-42f0-9ca9-1f9986669db8] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[dd80425c-6500-42f0-9ca9-1f9986669db8] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[dd80425c-6500-42f0-9ca9-1f9986669db8] Iniciando generación de imagen..."}
+{"level":"info","message":"[dd80425c-6500-42f0-9ca9-1f9986669db8] Imagen generada exitosamente en 158ms","outputPath":"http://localhost:3000/output/social-image-dd80425c-6500-42f0-9ca9-1f9986669db8.png"}
+{"ip":"::1","level":"info","message":"[0c432ee5-babe-4b5e-99d6-37e5115442f0] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[0c432ee5-babe-4b5e-99d6-37e5115442f0] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[0c432ee5-babe-4b5e-99d6-37e5115442f0] Iniciando generación de imagen..."}
+{"level":"info","message":"[0c432ee5-babe-4b5e-99d6-37e5115442f0] Imagen generada exitosamente en 119ms","outputPath":"http://localhost:3000/output/social-image-0c432ee5-babe-4b5e-99d6-37e5115442f0.png"}
+{"ip":"::1","level":"info","message":"[e16cfd53-a345-46db-80e0-6430701d2ed4] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[e16cfd53-a345-46db-80e0-6430701d2ed4] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[e16cfd53-a345-46db-80e0-6430701d2ed4] Iniciando generación de imagen..."}
+{"level":"info","message":"[e16cfd53-a345-46db-80e0-6430701d2ed4] Imagen generada exitosamente en 149ms","outputPath":"http://localhost:3000/output/social-image-e16cfd53-a345-46db-80e0-6430701d2ed4.png"}
+{"ip":"::1","level":"info","message":"[bb67f853-f947-4be3-8d5c-afe3f5697e46] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[bb67f853-f947-4be3-8d5c-afe3f5697e46] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[bb67f853-f947-4be3-8d5c-afe3f5697e46] Iniciando generación de imagen..."}
+{"level":"info","message":"[bb67f853-f947-4be3-8d5c-afe3f5697e46] Imagen generada exitosamente en 210ms","outputPath":"http://localhost:3000/output/social-image-bb67f853-f947-4be3-8d5c-afe3f5697e46.png"}
+{"ip":"::1","level":"info","message":"[1cf2270b-98ed-46f8-b5a5-6cee7fcc1a3f] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[1cf2270b-98ed-46f8-b5a5-6cee7fcc1a3f] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[1cf2270b-98ed-46f8-b5a5-6cee7fcc1a3f] Iniciando generación de imagen..."}
+{"level":"info","message":"[1cf2270b-98ed-46f8-b5a5-6cee7fcc1a3f] Imagen generada exitosamente en 184ms","outputPath":"http://localhost:3000/output/social-image-1cf2270b-98ed-46f8-b5a5-6cee7fcc1a3f.png"}
+{"ip":"::1","level":"info","message":"[911c66b2-6d3a-47df-8497-4861aaf1e5c3] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[911c66b2-6d3a-47df-8497-4861aaf1e5c3] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[911c66b2-6d3a-47df-8497-4861aaf1e5c3] Iniciando generación de imagen..."}
+{"level":"info","message":"[911c66b2-6d3a-47df-8497-4861aaf1e5c3] Imagen generada exitosamente en 181ms","outputPath":"http://localhost:3000/output/social-image-911c66b2-6d3a-47df-8497-4861aaf1e5c3.png"}
+{"ip":"::1","level":"info","message":"[b3e6bc47-e636-458c-abd0-fecece107321] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[b3e6bc47-e636-458c-abd0-fecece107321] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[b3e6bc47-e636-458c-abd0-fecece107321] Iniciando generación de imagen..."}
+{"level":"info","message":"[b3e6bc47-e636-458c-abd0-fecece107321] Imagen generada exitosamente en 341ms","outputPath":"http://localhost:3000/output/social-image-b3e6bc47-e636-458c-abd0-fecece107321.png"}
+{"ip":"::1","level":"info","message":"[de0d624f-7760-4dec-870e-d199e762a688] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[de0d624f-7760-4dec-870e-d199e762a688] Parámetros validados:","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[de0d624f-7760-4dec-870e-d199e762a688] Iniciando generación de imagen..."}
+{"level":"info","message":"[de0d624f-7760-4dec-870e-d199e762a688] Imagen generada exitosamente en 227ms","outputPath":"http://localhost:3000/output/social-image-de0d624f-7760-4dec-870e-d199e762a688.png"}
+{"ip":"::1","level":"info","message":"[08131811-f4ee-4320-9c44-8db58f632d7c] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[08131811-f4ee-4320-9c44-8db58f632d7c] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[08131811-f4ee-4320-9c44-8db58f632d7c] Iniciando generación de imagen..."}
+{"level":"info","message":"[08131811-f4ee-4320-9c44-8db58f632d7c] Imagen generada exitosamente en 318ms","outputPath":"http://localhost:3000/output/social-image-08131811-f4ee-4320-9c44-8db58f632d7c.png"}
+{"ip":"::1","level":"info","message":"[af660cc4-e482-45f4-97d2-83d91f49b591] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[af660cc4-e482-45f4-97d2-83d91f49b591] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[af660cc4-e482-45f4-97d2-83d91f49b591] Iniciando generación de imagen..."}
+{"level":"info","message":"[af660cc4-e482-45f4-97d2-83d91f49b591] Imagen generada exitosamente en 129ms","outputPath":"http://localhost:3000/output/social-image-af660cc4-e482-45f4-97d2-83d91f49b591.png"}
+{"ip":"::1","level":"info","message":"[dd885985-5d67-40b7-acfc-dc95f5258870] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[dd885985-5d67-40b7-acfc-dc95f5258870] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[dd885985-5d67-40b7-acfc-dc95f5258870] Iniciando generación de imagen..."}
+{"level":"info","message":"[dd885985-5d67-40b7-acfc-dc95f5258870] Imagen generada exitosamente en 81ms","outputPath":"http://localhost:3000/output/social-image-dd885985-5d67-40b7-acfc-dc95f5258870.png"}
+{"ip":"::1","level":"info","message":"[32a082c7-1846-40e0-8e0f-24fd8878767b] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[32a082c7-1846-40e0-8e0f-24fd8878767b] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[32a082c7-1846-40e0-8e0f-24fd8878767b] Iniciando generación de imagen..."}
+{"level":"info","message":"[32a082c7-1846-40e0-8e0f-24fd8878767b] Imagen generada exitosamente en 74ms","outputPath":"http://localhost:3000/output/social-image-32a082c7-1846-40e0-8e0f-24fd8878767b.png"}
+{"ip":"::1","level":"info","message":"[e92d6d10-6a1a-4d84-90a6-3ccfad78ecb4] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[e92d6d10-6a1a-4d84-90a6-3ccfad78ecb4] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[e92d6d10-6a1a-4d84-90a6-3ccfad78ecb4] Iniciando generación de imagen..."}
+{"level":"info","message":"[e92d6d10-6a1a-4d84-90a6-3ccfad78ecb4] Imagen generada exitosamente en 139ms","outputPath":"http://localhost:3000/output/social-image-e92d6d10-6a1a-4d84-90a6-3ccfad78ecb4.png"}
+{"ip":"::1","level":"info","message":"[5e695d7e-e006-4eb2-972e-0a524aac0566] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[5e695d7e-e006-4eb2-972e-0a524aac0566] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[5e695d7e-e006-4eb2-972e-0a524aac0566] Iniciando generación de imagen..."}
+{"level":"info","message":"[5e695d7e-e006-4eb2-972e-0a524aac0566] Imagen generada exitosamente en 87ms","outputPath":"http://localhost:3000/output/social-image-5e695d7e-e006-4eb2-972e-0a524aac0566.png"}
+{"ip":"::1","level":"info","message":"[f0bf2435-1b4b-4960-9dcf-b0c5c321f740] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[f0bf2435-1b4b-4960-9dcf-b0c5c321f740] Parámetros validados:","textLength":280,"username":"@giova.viajando"}
+{"level":"info","message":"[f0bf2435-1b4b-4960-9dcf-b0c5c321f740] Iniciando generación de imagen..."}
+{"level":"info","message":"[f0bf2435-1b4b-4960-9dcf-b0c5c321f740] Imagen generada exitosamente en 216ms","outputPath":"http://localhost:3000/output/social-image-f0bf2435-1b4b-4960-9dcf-b0c5c321f740.png"}
+{"ip":"::1","level":"info","message":"[7a6e4824-d25b-4dc0-9fc8-40ee1f6ff49c] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[7a6e4824-d25b-4dc0-9fc8-40ee1f6ff49c] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[7a6e4824-d25b-4dc0-9fc8-40ee1f6ff49c] Iniciando generación de imagen..."}
+{"level":"info","message":"[7a6e4824-d25b-4dc0-9fc8-40ee1f6ff49c] Imagen generada exitosamente en 313ms","outputPath":"http://localhost:3000/output/social-image-7a6e4824-d25b-4dc0-9fc8-40ee1f6ff49c.png"}
+{"ip":"::1","level":"info","message":"[0d1f1cd6-ee25-415e-8c36-5f19c23523b4] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[0d1f1cd6-ee25-415e-8c36-5f19c23523b4] Parámetros validados:","textLength":280,"username":"@lexurbinac"}
+{"level":"info","message":"[0d1f1cd6-ee25-415e-8c36-5f19c23523b4] Iniciando generación de imagen..."}
+{"level":"info","message":"[0d1f1cd6-ee25-415e-8c36-5f19c23523b4] Imagen generada exitosamente en 237ms","outputPath":"http://localhost:3000/output/social-image-0d1f1cd6-ee25-415e-8c36-5f19c23523b4.png"}
+{"ip":"::1","level":"info","message":"[7076f251-c9b3-48c5-b2a8-9da983adac89] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[7076f251-c9b3-48c5-b2a8-9da983adac89] Parámetros validados:","textLength":280,"username":"@lexurbinac"}
+{"level":"info","message":"[7076f251-c9b3-48c5-b2a8-9da983adac89] Iniciando generación de imagen..."}
+{"level":"info","message":"[7076f251-c9b3-48c5-b2a8-9da983adac89] Imagen generada exitosamente en 290ms","outputPath":"http://localhost:3000/output/social-image-7076f251-c9b3-48c5-b2a8-9da983adac89.png"}
+{"ip":"::1","level":"info","message":"[d72758b6-f7a3-40b8-a282-54cf0b4791ea] Nueva solicitud de generación de imagen","userAgent":"curl/8.7.1"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[d72758b6-f7a3-40b8-a282-54cf0b4791ea] Parámetros validados:","textLength":35,"username":"@testuser"}
+{"level":"info","message":"[d72758b6-f7a3-40b8-a282-54cf0b4791ea] Iniciando generación de imagen..."}
+{"level":"info","message":"[d72758b6-f7a3-40b8-a282-54cf0b4791ea] Imagen generada exitosamente en 272ms","outputPath":"http://localhost:3000/output/social-image-d72758b6-f7a3-40b8-a282-54cf0b4791ea.png"}
+{"ip":"::1","level":"info","message":"[8671927f-f5dc-423a-bb5b-8b1f85176dcc] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[8671927f-f5dc-423a-bb5b-8b1f85176dcc] Parámetros validados:","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[8671927f-f5dc-423a-bb5b-8b1f85176dcc] Iniciando generación de imagen..."}
+{"level":"info","message":"[8671927f-f5dc-423a-bb5b-8b1f85176dcc] Imagen generada exitosamente en 213ms","outputPath":"http://localhost:3000/output/social-image-8671927f-f5dc-423a-bb5b-8b1f85176dcc.png"}
+{"ip":"::1","level":"info","message":"[16e8bdb7-ef06-4d9b-bf10-9087cf2fb8dc] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[16e8bdb7-ef06-4d9b-bf10-9087cf2fb8dc] Parámetros validados:","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[16e8bdb7-ef06-4d9b-bf10-9087cf2fb8dc] Iniciando generación de imagen..."}
+{"level":"info","message":"[16e8bdb7-ef06-4d9b-bf10-9087cf2fb8dc] Imagen generada exitosamente en 190ms","outputPath":"http://localhost:3000/output/social-image-16e8bdb7-ef06-4d9b-bf10-9087cf2fb8dc.png"}
+{"ip":"::1","level":"info","message":"[307c344f-8ca2-456a-96b4-83ea089ad042] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[307c344f-8ca2-456a-96b4-83ea089ad042] Parámetros validados:","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[307c344f-8ca2-456a-96b4-83ea089ad042] Iniciando generación de imagen..."}
+{"level":"info","message":"[307c344f-8ca2-456a-96b4-83ea089ad042] Imagen generada exitosamente en 152ms","outputPath":"http://localhost:3000/output/social-image-307c344f-8ca2-456a-96b4-83ea089ad042.png"}
+{"ip":"::1","level":"info","message":"[2238f8fc-b755-441f-9688-3f5eda8fad08] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[2238f8fc-b755-441f-9688-3f5eda8fad08] Parámetros validados:","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[2238f8fc-b755-441f-9688-3f5eda8fad08] Iniciando generación de imagen..."}
+{"level":"info","message":"[2238f8fc-b755-441f-9688-3f5eda8fad08] Imagen generada exitosamente en 290ms","outputPath":"http://localhost:3000/output/social-image-2238f8fc-b755-441f-9688-3f5eda8fad08.png"}
+{"ip":"::1","level":"info","message":"[b7db6f4b-71c6-4d31-8946-9d7ae8947590] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[b7db6f4b-71c6-4d31-8946-9d7ae8947590] Parámetros validados:","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[b7db6f4b-71c6-4d31-8946-9d7ae8947590] Iniciando generación de imagen..."}
+{"level":"info","message":"[b7db6f4b-71c6-4d31-8946-9d7ae8947590] Imagen generada exitosamente en 252ms","outputPath":"http://localhost:3000/output/social-image-b7db6f4b-71c6-4d31-8946-9d7ae8947590.png"}
+{"ip":"::1","level":"info","message":"[44c4713d-fc88-4a1c-acf6-b63bcc6d782f] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[44c4713d-fc88-4a1c-acf6-b63bcc6d782f] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[44c4713d-fc88-4a1c-acf6-b63bcc6d782f] Iniciando generación de imagen..."}
+{"error":"Cannot read properties of undefined (reading 'mkdir')","level":"error","message":"[44c4713d-fc88-4a1c-acf6-b63bcc6d782f] Error generando imagen después de 261ms:","stack":"TypeError: Cannot read properties of undefined (reading 'mkdir')\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:349:57\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:19:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:15:12)\n    at saveImage (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:343:12)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:143:42\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)"}
+{"ip":"::1","level":"info","message":"[7f27e386-c96a-4a3a-bd63-4db45afa565a] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[7f27e386-c96a-4a3a-bd63-4db45afa565a] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[7f27e386-c96a-4a3a-bd63-4db45afa565a] Iniciando generación de imagen..."}
+{"error":"Cannot read properties of undefined (reading 'mkdir')","level":"error","message":"[7f27e386-c96a-4a3a-bd63-4db45afa565a] Error generando imagen después de 254ms:","stack":"TypeError: Cannot read properties of undefined (reading 'mkdir')\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:349:57\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:19:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:15:12)\n    at saveImage (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:343:12)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:143:42\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)"}
+{"ip":"::1","level":"info","message":"[9b21602d-0e89-4ae9-bf6f-7e3bd08b9ccb] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[9b21602d-0e89-4ae9-bf6f-7e3bd08b9ccb] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[9b21602d-0e89-4ae9-bf6f-7e3bd08b9ccb] Iniciando generación de imagen..."}
+{"error":"Cannot read properties of undefined (reading 'mkdir')","level":"error","message":"[9b21602d-0e89-4ae9-bf6f-7e3bd08b9ccb] Error generando imagen después de 251ms:","stack":"TypeError: Cannot read properties of undefined (reading 'mkdir')\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:349:57\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:19:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:15:12)\n    at saveImage (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:343:12)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:143:42\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)"}
+{"ip":"::1","level":"info","message":"[5e48a28a-0095-47fb-aa86-ae441c1df4ae] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[5e48a28a-0095-47fb-aa86-ae441c1df4ae] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[5e48a28a-0095-47fb-aa86-ae441c1df4ae] Iniciando generación de imagen..."}
+{"error":"Cannot read properties of undefined (reading 'mkdir')","level":"error","message":"[5e48a28a-0095-47fb-aa86-ae441c1df4ae] Error generando imagen después de 60ms:","stack":"TypeError: Cannot read properties of undefined (reading 'mkdir')\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:349:57\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:19:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:15:12)\n    at saveImage (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:343:12)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:143:42\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)"}
+{"ip":"::1","level":"info","message":"[02ec93c7-6468-4018-b597-a17687a87653] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[02ec93c7-6468-4018-b597-a17687a87653] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[02ec93c7-6468-4018-b597-a17687a87653] Iniciando generación de imagen..."}
+{"error":"Cannot read properties of undefined (reading 'mkdir')","level":"error","message":"[02ec93c7-6468-4018-b597-a17687a87653] Error generando imagen después de 80ms:","stack":"TypeError: Cannot read properties of undefined (reading 'mkdir')\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:349:57\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:19:71\n    at new Promise (<anonymous>)\n    at __awaiter (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:15:12)\n    at saveImage (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:343:12)\n    at /Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:143:42\n    at step (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:44:23)\n    at Object.next (/Users/alexanderurbina/socialimggen/src/services/imageGenerator.js:25:53)"}
+{"ip":"::1","level":"info","message":"[53c973c7-52c2-41a4-8095-f173f9dcd454] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[53c973c7-52c2-41a4-8095-f173f9dcd454] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[53c973c7-52c2-41a4-8095-f173f9dcd454] Iniciando generación de imagen..."}
+{"level":"info","message":"[53c973c7-52c2-41a4-8095-f173f9dcd454] Imagen generada exitosamente en 377ms","outputPath":"http://localhost:3000/output/social-image-53c973c7-52c2-41a4-8095-f173f9dcd454.png"}
+{"ip":"::1","level":"info","message":"[b213efa7-2e18-4329-aa4d-34d16ba69ad4] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[b213efa7-2e18-4329-aa4d-34d16ba69ad4] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[b213efa7-2e18-4329-aa4d-34d16ba69ad4] Iniciando generación de imagen..."}
+{"level":"info","message":"[b213efa7-2e18-4329-aa4d-34d16ba69ad4] Imagen generada exitosamente en 681ms","outputPath":"http://localhost:3000/output/social-image-b213efa7-2e18-4329-aa4d-34d16ba69ad4.png"}
+{"ip":"::1","level":"info","message":"[3bf46564-7a55-4af9-bc0f-4bc0244a9a0a] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[3bf46564-7a55-4af9-bc0f-4bc0244a9a0a] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[3bf46564-7a55-4af9-bc0f-4bc0244a9a0a] Iniciando generación de imagen..."}
+{"level":"info","message":"[3bf46564-7a55-4af9-bc0f-4bc0244a9a0a] Imagen generada exitosamente en 246ms","outputPath":"http://localhost:3000/output/social-image-3bf46564-7a55-4af9-bc0f-4bc0244a9a0a.png"}
+{"ip":"::1","level":"info","message":"[83297939-b8de-48a7-946e-dcc04b4fd053] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[83297939-b8de-48a7-946e-dcc04b4fd053] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[83297939-b8de-48a7-946e-dcc04b4fd053] Iniciando generación de imagen..."}
+{"level":"info","message":"[83297939-b8de-48a7-946e-dcc04b4fd053] Imagen generada exitosamente en 163ms","outputPath":"http://localhost:3000/output/social-image-83297939-b8de-48a7-946e-dcc04b4fd053.png"}
+{"ip":"::1","level":"info","message":"[8d9a5927-b36b-45e2-8384-bd686b8c8242] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[8d9a5927-b36b-45e2-8384-bd686b8c8242] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[8d9a5927-b36b-45e2-8384-bd686b8c8242] Iniciando generación de imagen..."}
+{"level":"info","message":"[8d9a5927-b36b-45e2-8384-bd686b8c8242] Imagen generada exitosamente en 538ms","outputPath":"http://localhost:3000/output/social-image-8d9a5927-b36b-45e2-8384-bd686b8c8242.png"}
+{"ip":"::1","level":"info","message":"[f7f830bc-820b-453d-8c13-5a94639bfb68] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[f7f830bc-820b-453d-8c13-5a94639bfb68] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[f7f830bc-820b-453d-8c13-5a94639bfb68] Iniciando generación de imagen..."}
+{"level":"info","message":"[f7f830bc-820b-453d-8c13-5a94639bfb68] Imagen generada exitosamente en 351ms","outputPath":"http://localhost:3000/output/social-image-f7f830bc-820b-453d-8c13-5a94639bfb68.png"}
+{"ip":"::1","level":"info","message":"[15f1d9ea-f771-4f70-bf10-6d2d3b3ee878] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[15f1d9ea-f771-4f70-bf10-6d2d3b3ee878] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[15f1d9ea-f771-4f70-bf10-6d2d3b3ee878] Iniciando generación de imagen..."}
+{"level":"info","message":"[15f1d9ea-f771-4f70-bf10-6d2d3b3ee878] Imagen generada exitosamente en 1135ms","outputPath":"http://localhost:3000/output/social-image-15f1d9ea-f771-4f70-bf10-6d2d3b3ee878.png"}
+{"ip":"::1","level":"info","message":"[3268f5ab-af12-44ce-9a2a-e3f4807f6f60] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[3268f5ab-af12-44ce-9a2a-e3f4807f6f60] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[3268f5ab-af12-44ce-9a2a-e3f4807f6f60] Iniciando generación de imagen..."}
+{"level":"info","message":"[3268f5ab-af12-44ce-9a2a-e3f4807f6f60] Imagen generada exitosamente en 429ms","outputPath":"http://localhost:3000/output/social-image-3268f5ab-af12-44ce-9a2a-e3f4807f6f60.png"}
+{"ip":"::1","level":"info","message":"[3378718a-3f58-4435-a39e-bd328d7cbc56] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[3378718a-3f58-4435-a39e-bd328d7cbc56] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[3378718a-3f58-4435-a39e-bd328d7cbc56] Iniciando generación de imagen..."}
+{"level":"info","message":"[3378718a-3f58-4435-a39e-bd328d7cbc56] Imagen generada exitosamente en 415ms","outputPath":"http://localhost:3000/output/social-image-3378718a-3f58-4435-a39e-bd328d7cbc56.png"}
+{"ip":"::1","level":"info","message":"[2432b474-f4d6-4ca1-8024-dd9a165586db] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[2432b474-f4d6-4ca1-8024-dd9a165586db] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[2432b474-f4d6-4ca1-8024-dd9a165586db] Iniciando generación de imagen..."}
+{"level":"info","message":"[2432b474-f4d6-4ca1-8024-dd9a165586db] Imagen generada exitosamente en 128ms","outputPath":"http://localhost:3000/output/social-image-2432b474-f4d6-4ca1-8024-dd9a165586db.png"}
+{"ip":"::1","level":"info","message":"[5e304ccc-074b-44fd-a877-b6ad8b2e1ba5] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[5e304ccc-074b-44fd-a877-b6ad8b2e1ba5] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[5e304ccc-074b-44fd-a877-b6ad8b2e1ba5] Iniciando generación de imagen..."}
+{"level":"info","message":"[5e304ccc-074b-44fd-a877-b6ad8b2e1ba5] Imagen generada exitosamente en 168ms","outputPath":"http://localhost:3000/output/social-image-5e304ccc-074b-44fd-a877-b6ad8b2e1ba5.png"}
+{"ip":"::1","level":"info","message":"[9c643cfa-eed0-4958-886a-7f8bb618d1b6] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[9c643cfa-eed0-4958-886a-7f8bb618d1b6] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[9c643cfa-eed0-4958-886a-7f8bb618d1b6] Iniciando generación de imagen..."}
+{"level":"info","message":"[9c643cfa-eed0-4958-886a-7f8bb618d1b6] Imagen generada exitosamente en 103ms","outputPath":"http://localhost:3000/output/social-image-9c643cfa-eed0-4958-886a-7f8bb618d1b6.png"}
+{"ip":"::1","level":"info","message":"[ee64e6c8-b40a-4c3d-9e4b-7a85474132c8] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[ee64e6c8-b40a-4c3d-9e4b-7a85474132c8] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[ee64e6c8-b40a-4c3d-9e4b-7a85474132c8] Iniciando generación de imagen..."}
+{"level":"info","message":"[ee64e6c8-b40a-4c3d-9e4b-7a85474132c8] Imagen generada exitosamente en 82ms","outputPath":"http://localhost:3000/output/social-image-ee64e6c8-b40a-4c3d-9e4b-7a85474132c8.png"}
+{"ip":"::1","level":"info","message":"[d19bb295-8634-4851-b0f0-59da5bf505ec] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[d19bb295-8634-4851-b0f0-59da5bf505ec] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[d19bb295-8634-4851-b0f0-59da5bf505ec] Iniciando generación de imagen..."}
+{"level":"info","message":"[d19bb295-8634-4851-b0f0-59da5bf505ec] Imagen generada exitosamente en 104ms","outputPath":"http://localhost:3000/output/social-image-d19bb295-8634-4851-b0f0-59da5bf505ec.png"}
+{"ip":"::1","level":"info","message":"[45222a11-a08c-497a-af1e-6df792f18fed] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[45222a11-a08c-497a-af1e-6df792f18fed] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[45222a11-a08c-497a-af1e-6df792f18fed] Iniciando generación de imagen..."}
+{"level":"info","message":"[45222a11-a08c-497a-af1e-6df792f18fed] Imagen generada exitosamente en 129ms","outputPath":"http://localhost:3000/output/social-image-45222a11-a08c-497a-af1e-6df792f18fed.png"}
+{"ip":"::1","level":"info","message":"[cbaf241a-cbc6-4e1c-a0f9-786ed3aee4a0] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[cbaf241a-cbc6-4e1c-a0f9-786ed3aee4a0] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[cbaf241a-cbc6-4e1c-a0f9-786ed3aee4a0] Iniciando generación de imagen..."}
+{"level":"info","message":"[cbaf241a-cbc6-4e1c-a0f9-786ed3aee4a0] Imagen generada exitosamente en 168ms","outputPath":"http://localhost:3000/output/social-image-cbaf241a-cbc6-4e1c-a0f9-786ed3aee4a0.png"}
+{"ip":"::1","level":"info","message":"[e8a80e13-75d1-4c8a-8de7-5ab0c3f2598f] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[e8a80e13-75d1-4c8a-8de7-5ab0c3f2598f] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[e8a80e13-75d1-4c8a-8de7-5ab0c3f2598f] Iniciando generación de imagen..."}
+{"level":"info","message":"[e8a80e13-75d1-4c8a-8de7-5ab0c3f2598f] Imagen generada exitosamente en 105ms","outputPath":"http://localhost:3000/output/social-image-e8a80e13-75d1-4c8a-8de7-5ab0c3f2598f.png"}
+{"ip":"::1","level":"info","message":"[f0dae5ab-da1e-4201-9787-1ed3d6cd47ac] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[f0dae5ab-da1e-4201-9787-1ed3d6cd47ac] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[f0dae5ab-da1e-4201-9787-1ed3d6cd47ac] Iniciando generación de imagen..."}
+{"level":"info","message":"[f0dae5ab-da1e-4201-9787-1ed3d6cd47ac] Imagen generada exitosamente en 129ms","outputPath":"http://localhost:3000/output/social-image-f0dae5ab-da1e-4201-9787-1ed3d6cd47ac.png"}
+{"ip":"::1","level":"info","message":"[1e2d74a0-5187-4189-b741-40c4d0cd26af] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[1e2d74a0-5187-4189-b741-40c4d0cd26af] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[1e2d74a0-5187-4189-b741-40c4d0cd26af] Iniciando generación de imagen..."}
+{"level":"info","message":"[1e2d74a0-5187-4189-b741-40c4d0cd26af] Imagen generada exitosamente en 154ms","outputPath":"http://localhost:3000/output/social-image-1e2d74a0-5187-4189-b741-40c4d0cd26af.png"}
+{"ip":"::1","level":"info","message":"[dc068ff7-a250-41c0-b052-7e3f9443425e] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[dc068ff7-a250-41c0-b052-7e3f9443425e] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[dc068ff7-a250-41c0-b052-7e3f9443425e] Iniciando generación de imagen..."}
+{"level":"info","message":"[dc068ff7-a250-41c0-b052-7e3f9443425e] Imagen generada exitosamente en 82ms","outputPath":"http://localhost:3000/output/social-image-dc068ff7-a250-41c0-b052-7e3f9443425e.png"}
+{"ip":"::1","level":"info","message":"[f16c33a1-489e-4bc3-aa9f-ea230f6e1fa7] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[f16c33a1-489e-4bc3-aa9f-ea230f6e1fa7] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[f16c33a1-489e-4bc3-aa9f-ea230f6e1fa7] Iniciando generación de imagen..."}
+{"level":"info","message":"[f16c33a1-489e-4bc3-aa9f-ea230f6e1fa7] Imagen generada exitosamente en 186ms","outputPath":"http://localhost:3000/output/social-image-f16c33a1-489e-4bc3-aa9f-ea230f6e1fa7.png"}
+{"ip":"::1","level":"info","message":"[8a814265-ede4-4dbe-bc67-7321a3b2aa07] Nueva solicitud de generación de imagen","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"dimensions":"1200x630","format":"png","level":"info","message":"[8a814265-ede4-4dbe-bc67-7321a3b2aa07] Parámetros validados:","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[8a814265-ede4-4dbe-bc67-7321a3b2aa07] Iniciando generación de imagen..."}
+{"level":"info","message":"[8a814265-ede4-4dbe-bc67-7321a3b2aa07] Imagen generada exitosamente en 756ms","outputPath":"http://localhost:3000/output/social-image-8a814265-ede4-4dbe-bc67-7321a3b2aa07.png"}

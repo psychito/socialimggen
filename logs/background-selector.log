@@ -1,0 +1,4 @@
+{"detectedCategory":"tech","level":"info","message":"Video de fondo seleccionado","selectedVideo":"videos/tech/data-flow.mp4","tweetText":"¡Este es un tweet de prueba sobre tecnología y sta..."}
+{"level":"info","message":"Cargados 0 videos para categoría abstract"}
+{"level":"warn","message":"No hay videos en categoría abstract, usando abstract"}
+{"detectedCategory":"abstract","level":"info","message":"Video de fondo seleccionado","tweetText":"Los resultados extraordinarios no se negocian: se ..."}

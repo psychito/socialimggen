@@ -1,0 +1,444 @@
+{"ip":"::1","level":"info","message":"[c731cfaf-b59d-47c1-99f7-d3d15dae8dfc] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"0":"username es requerido","1":"displayName es requerido","2":"likes debe ser un número","3":"retweets debe ser un número","4":"replies debe ser un número","5":"timestamp es requerido","level":"warn","message":"[c731cfaf-b59d-47c1-99f7-d3d15dae8dfc] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Parámetros validados:","style":"glassmorphism","textLength":56,"username":"@usuario_demo"}
+{"level":"info","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Video de fondo seleccionado: videos/tech/data-flow.mp4"}
+{"level":"info","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Iniciando generación de video..."}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/videos/tech/data-flow.mp4","level":"error","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Error generando video después de 7ms:","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/videos/tech/data-flow.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:105:24"}
+{"ip":"::1","level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Parámetros validados:","style":"glassmorphism","textLength":56,"username":"@usuario_demo"}
+{"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Iniciando generación de video..."}
+{"fileSize":"2.02MB","level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Video generado exitosamente en 4769ms","outputPath":"http://localhost:3000/output/social-video-2deed278-209b-4230-8140-50b642ac24fd.mp4"}
+{"ip":"::1","level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Parámetros validados:","style":"glassmorphism","textLength":56,"username":"@usuario_demo"}
+{"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Iniciando generación de video..."}
+{"fileSize":"2.02MB","level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Video generado exitosamente en 4985ms","outputPath":"http://localhost:3000/output/social-video-0e167f52-a2d6-4b4f-9eda-c9ad0bd11127.mp4"}
+{"ip":"::1","level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Parámetros validados:","style":"glassmorphism","textLength":56,"username":"@usuario_demo"}
+{"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Iniciando generación de video..."}
+{"fileSize":"2.02MB","level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Video generado exitosamente en 4541ms","outputPath":"http://localhost:3000/output/social-video-a4665125-30cf-4a0b-8481-172899bc997c.mp4"}
+{"ip":"::1","level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Parámetros validados:","style":"glassmorphism","textLength":56,"username":"@usuario_demo"}
+{"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Iniciando generación de video..."}
+{"fileSize":"2.02MB","level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Video generado exitosamente en 4522ms","outputPath":"http://localhost:3000/output/social-video-c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f.mp4"}
+{"ip":"::1","level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Parámetros validados:","style":"glassmorphism","textLength":56,"username":"@usuario_demo"}
+{"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Iniciando generación de video..."}
+{"fileSize":"2.02MB","level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Video generado exitosamente en 4590ms","outputPath":"http://localhost:3000/output/social-video-5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6.mp4"}
+{"ip":"::1","level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Parámetros validados:","style":"glassmorphism","textLength":40,"username":"@usuario_demo"}
+{"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Iniciando generación de video..."}
+{"fileSize":"13.95MB","level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Video generado exitosamente en 42232ms","outputPath":"http://localhost:3000/output/social-video-9853b6c9-8261-42c1-9523-7e9e75f29905.mp4"}
+{"ip":"::1","level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Parámetros validados:","style":"glassmorphism","textLength":40,"username":"@usuario_demo"}
+{"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Iniciando generación de video..."}
+{"fileSize":"13.95MB","level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Video generado exitosamente en 41350ms","outputPath":"http://localhost:3000/output/social-video-535e8b52-3644-4396-b175-2cc509bb369a.mp4"}
+{"ip":"::1","level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Parámetros validados:","style":"glassmorphism","textLength":52,"username":"@usuario_demo"}
+{"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Iniciando generación de video..."}
+{"fileSize":"3.05MB","level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Video generado exitosamente en 20311ms","outputPath":"http://localhost:3000/output/social-video-6156761e-3f86-485f-b3bc-24924decc47a.mp4"}
+{"ip":"::1","level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Parámetros validados:","style":"glassmorphism","textLength":50,"username":"@usuario_demo"}
+{"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Iniciando generación de video..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Error generando video después de 1042ms:","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at ChildProcess.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:180:11)\n    at ChildProcess.emit (node:events:524:28)\n    at ChildProcess._handle.onexit (node:internal/child_process:293:12)"}
+{"ip":"::1","level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Parámetros validados:","style":"glassmorphism","textLength":50,"username":"@usuario_demo"}
+{"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Iniciando generación de video..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Error generando video después de 744ms:","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at ChildProcess.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:180:11)\n    at ChildProcess.emit (node:events:524:28)\n    at ChildProcess._handle.onexit (node:internal/child_process:293:12)"}
+{"ip":"::1","level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Parámetros validados:","style":"glassmorphism","textLength":54,"username":"@usuario_demo"}
+{"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Iniciando generación de video..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Error generando video después de 749ms:","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at ChildProcess.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:180:11)\n    at ChildProcess.emit (node:events:524:28)\n    at ChildProcess._handle.onexit (node:internal/child_process:293:12)"}
+{"ip":"::1","level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Parámetros validados:","style":"glassmorphism","textLength":54,"username":"@usuario_demo"}
+{"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Iniciando generación de video..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Error generando video después de 745ms:","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at Socket.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:195:11)\n    at Socket.emit (node:events:536:35)\n    at Pipe.<anonymous> (node:net:343:12)"}
+{"ip":"::1","level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Parámetros validados:","style":"glassmorphism","textLength":51,"username":"@usuario_demo"}
+{"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Iniciando generación de video..."}
+{"fileSize":"0.41MB","level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Video generado exitosamente en 3056ms","outputPath":"http://localhost:3000/output/social-video-93b3fefb-868e-47ac-8bd1-dcb85d69709b.mp4"}
+{"ip":"::1","level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Parámetros validados:","style":"glassmorphism","textLength":51,"username":"@usuario_demo"}
+{"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Iniciando generación de video..."}
+{"fileSize":"0.41MB","level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Video generado exitosamente en 3424ms","outputPath":"http://localhost:3000/output/social-video-5cc08c92-09fe-4f67-8903-bd70a90f3a4a.mp4"}
+{"ip":"::1","level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Parámetros validados:","style":"glassmorphism","textLength":91,"username":"@usuario_demo"}
+{"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Iniciando generación de video..."}
+{"fileSize":"0.42MB","level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Video generado exitosamente en 3300ms","outputPath":"http://localhost:3000/output/social-video-a4e804c4-7843-46ab-965b-fad7e553f6dd.mp4"}
+{"ip":"::1","level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Parámetros validados:","style":"glassmorphism","textLength":91,"username":"@usuario_demo"}
+{"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Iniciando generación de video..."}
+{"fileSize":"0.42MB","level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Video generado exitosamente en 3309ms","outputPath":"http://localhost:3000/output/social-video-cbd537dd-b4d5-4c8b-9a76-944e203c2b35.mp4"}
+{"ip":"::1","level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Parámetros validados:","style":"glassmorphism","textLength":47,"username":"@usuario_demo"}
+{"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Iniciando generación de video..."}
+{"fileSize":"2.15MB","level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Video generado exitosamente en 4777ms","outputPath":"http://localhost:3000/output/social-video-8b2a59a5-f6e8-4d94-9025-29aa714f9393.mp4"}
+{"ip":"::1","level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Parámetros validados:","style":"glassmorphism","textLength":47,"username":"@usuario_demo"}
+{"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Iniciando generación de video..."}
+{"fileSize":"0.81MB","level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Video generado exitosamente en 4376ms","outputPath":"http://localhost:3000/output/social-video-d82f295e-5cee-485d-bba1-be86b2896a19.mp4"}
+{"ip":"::1","level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"duration":20,"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Parámetros validados:","style":"glassmorphism","textLength":43,"username":"@usuario_demo"}
+{"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Iniciando generación de video..."}
+{"fileSize":"2.91MB","level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Video generado exitosamente en 8957ms","outputPath":"http://localhost:3000/output/social-video-13fde59a-d378-4a1c-8931-cfe28c59690b.mp4"}
+{"error":"req.get is not a function","level":"error","message":"[4e5d85fb-360c-4378-9080-23d2aa10f4ad] Error generando video después de 0ms:","stack":"TypeError: req.get is not a function\n    at /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:81:28\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:175:3)\n    at /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:350:19"}
+{"ip":"::1","level":"info","message":"[ae1b55bc-fb8c-4221-8af0-3349278ffe9e] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[ae1b55bc-fb8c-4221-8af0-3349278ffe9e] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[ae1b55bc-fb8c-4221-8af0-3349278ffe9e] Iniciando generación de video..."}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4","level":"error","message":"[ae1b55bc-fb8c-4221-8af0-3349278ffe9e] Error generando video después de 2ms:","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"ip":"::1","level":"info","message":"[8fe22856-93fd-41b7-8059-a4aa177e7821] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[8fe22856-93fd-41b7-8059-a4aa177e7821] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[8fe22856-93fd-41b7-8059-a4aa177e7821] Iniciando generación de video..."}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4","level":"error","message":"[8fe22856-93fd-41b7-8059-a4aa177e7821] Error generando video después de 1ms:","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"ip":"::1","level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Iniciando generación de video..."}
+{"fileSize":"5.69MB","level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Video generado exitosamente en 9059ms","outputPath":"http://localhost:3000/output/social-video-1648acdf-9167-40ad-9062-cfff4f7361f9.mp4"}
+{"ip":"::1","level":"info","message":"[f119fbcd-ef1c-4ab8-80b5-8f298871ee3e] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[f119fbcd-ef1c-4ab8-80b5-8f298871ee3e] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[f119fbcd-ef1c-4ab8-80b5-8f298871ee3e] Iniciando generación de video..."}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4","level":"error","message":"[f119fbcd-ef1c-4ab8-80b5-8f298871ee3e] Error generando video después de 1ms:","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"ip":"::1","level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Iniciando generación de video..."}
+{"fileSize":"3.62MB","level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Video generado exitosamente en 6243ms","outputPath":"http://localhost:3000/output/social-video-795ddb23-3ff7-4afe-a98e-426a885b528f.mp4"}
+{"ip":"::1","level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Iniciando generación de video..."}
+{"fileSize":"3.85MB","level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Video generado exitosamente en 6999ms","outputPath":"http://localhost:3000/output/social-video-c9ad7aae-e8f5-42cd-aa31-3cfca6660b61.mp4"}
+{"ip":"::1","level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Iniciando generación de video..."}
+{"fileSize":"4.04MB","level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Video generado exitosamente en 7072ms","outputPath":"http://localhost:3000/output/social-video-988c5aec-246d-424b-8f6e-84a367ca3e76.mp4"}
+{"ip":"::1","level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Iniciando generación de video..."}
+{"fileSize":"4.04MB","level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Video generado exitosamente en 7291ms","outputPath":"http://localhost:3000/output/social-video-3c34ec62-8a35-4547-9c0b-968380e4acb6.mp4"}
+{"ip":"::1","level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Iniciando generación de video..."}
+{"fileSize":"3.79MB","level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Video generado exitosamente en 12020ms","outputPath":"http://localhost:3000/output/social-video-0a5a9d28-aada-4679-9deb-9a6bfd606108.mp4"}
+{"ip":"::1","level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Iniciando generación de video..."}
+{"fileSize":"2.97MB","level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Video generado exitosamente en 11341ms","outputPath":"http://localhost:3000/output/social-video-1fdba156-20dd-4603-a757-cb4f8d30798e.mp4"}
+{"ip":"::1","level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Iniciando generación de video..."}
+{"fileSize":"3.02MB","level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Video generado exitosamente en 9776ms","outputPath":"http://localhost:3000/output/social-video-272ec62e-0911-4181-9841-0c21d1e3b9be.mp4"}
+{"ip":"::1","level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Iniciando generación de video..."}
+{"fileSize":"2.64MB","level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Video generado exitosamente en 9271ms","outputPath":"http://localhost:3000/output/social-video-65b49528-e3db-4a13-9bc7-b46bdf4eb610.mp4"}
+{"ip":"::1","level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Iniciando generación de video..."}
+{"fileSize":"2.25MB","level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Video generado exitosamente en 9320ms","outputPath":"http://localhost:3000/output/social-video-1ef2a04c-b668-49ff-9b9e-d69e98db9cc0.mp4"}
+{"ip":"::1","level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Iniciando generación de video..."}
+{"fileSize":"2.55MB","level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Video generado exitosamente en 9652ms","outputPath":"http://localhost:3000/output/social-video-f3beb4ef-7918-4a7c-b025-d7e5705c356c.mp4"}
+{"ip":"::1","level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Iniciando generación de video..."}
+{"fileSize":"2.46MB","level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Video generado exitosamente en 8572ms","outputPath":"http://localhost:3000/output/social-video-3bcd96f6-e00f-40b3-a448-dbc66fbf89fc.mp4"}
+{"ip":"::1","level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Parámetros validados:","style":"glassmorphism","textLength":168,"username":"@lexurbinac"}
+{"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Iniciando generación de video..."}
+{"fileSize":"2.75MB","level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Video generado exitosamente en 8083ms","outputPath":"http://localhost:3000/output/social-video-cef3bab7-eb72-417d-b1eb-a836ba4ac8c7.mp4"}
+{"ip":"::1","level":"info","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Parámetros validados:","style":"glassmorphism","textLength":130,"username":"@bra.cuantico"}
+{"level":"info","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Video de fondo seleccionado: undefined"}
+{"level":"info","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Iniciando generación de video..."}
+{"error":"Video de fondo no especificado","level":"error","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Error generando video después de 6ms:","stack":"Error: Video de fondo no especificado\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:39:19)\n    at /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:65\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:280:10)\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:91:12)"}
+{"ip":"::1","level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Parámetros validados:","style":"glassmorphism","textLength":130,"username":"@bra.cuantico"}
+{"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Iniciando generación de video..."}
+{"fileSize":"4.76MB","level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Video generado exitosamente en 7897ms","outputPath":"http://localhost:3000/output/social-video-df588017-23bc-42f5-8c8a-4b06883e9287.mp4"}
+{"ip":"::1","level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Iniciando generación de video..."}
+{"fileSize":"2.01MB","level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Video generado exitosamente en 7656ms","outputPath":"http://localhost:3000/output/social-video-64414405-1707-4a6f-b61c-7b0a2aaed23c.mp4"}
+{"ip":"::1","level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Iniciando generación de video..."}
+{"fileSize":"2.01MB","level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Video generado exitosamente en 6837ms","outputPath":"http://localhost:3000/output/social-video-8de0ae4f-fd9a-423b-83aa-a5a781094697.mp4"}
+{"ip":"::1","level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Iniciando generación de video..."}
+{"fileSize":"2.01MB","level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Video generado exitosamente en 6417ms","outputPath":"http://localhost:3000/output/social-video-5bfa0cc7-3ffd-4353-aa77-425543de68b4.mp4"}
+{"ip":"::1","level":"info","message":"[d88294ab-d58e-4a31-8ee6-057856133fb1] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[d88294ab-d58e-4a31-8ee6-057856133fb1] Parámetros validados:","style":"glassmorphism","textLength":130,"username":"@bra.cuantico"}
+{"level":"info","message":"[d88294ab-d58e-4a31-8ee6-057856133fb1] Iniciando generación de video..."}
+{"error":"Video de fondo no encontrado: /videos/nature/forest-wind1.mp4","level":"error","message":"[d88294ab-d58e-4a31-8ee6-057856133fb1] Error generando video después de 2ms:","stack":"Error: Video de fondo no encontrado: /videos/nature/forest-wind1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"ip":"::1","level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Parámetros validados:","style":"glassmorphism","textLength":130,"username":"@bra.cuantico"}
+{"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Iniciando generación de video..."}
+{"fileSize":"4.75MB","level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Video generado exitosamente en 7389ms","outputPath":"http://localhost:3000/output/social-video-0391ea43-9f71-44c3-8954-edaae70bb52c.mp4"}
+{"ip":"::1","level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Iniciando generación de video..."}
+{"fileSize":"2.01MB","level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Video generado exitosamente en 6130ms","outputPath":"http://localhost:3000/output/social-video-e597b5a5-81e7-46e1-94e6-85b43022bbba.mp4"}
+{"ip":"::1","level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Iniciando generación de video..."}
+{"fileSize":"2.01MB","level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Video generado exitosamente en 6502ms","outputPath":"http://localhost:3000/output/social-video-4c44699a-2d37-4fdb-9748-485123119688.mp4"}
+{"ip":"::1","level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Parámetros validados:","style":"glassmorphism","textLength":130,"username":"@bra.cuantico"}
+{"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Iniciando generación de video..."}
+{"fileSize":"4.75MB","level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Video generado exitosamente en 6972ms","outputPath":"http://localhost:3000/output/social-video-dfff9a32-3975-4ac7-8376-6f5a4834c1a1.mp4"}
+{"ip":"::1","level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Iniciando generación de video..."}
+{"fileSize":"2.01MB","level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Video generado exitosamente en 5234ms","outputPath":"http://localhost:3000/output/social-video-0c3a211c-6486-4fa5-8ccb-ad86d1b41780.mp4"}
+{"ip":"::1","level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Iniciando generación de video..."}
+{"fileSize":"2.02MB","level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Video generado exitosamente en 5482ms","outputPath":"http://localhost:3000/output/social-video-1f63e618-58a8-438a-8c15-2f6a8bef7669.mp4"}
+{"ip":"::1","level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Parámetros validados:","style":"glassmorphism","textLength":118,"username":"@lexurbinac"}
+{"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Iniciando generación de video..."}
+{"fileSize":"2.37MB","level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Video generado exitosamente en 5520ms","outputPath":"http://localhost:3000/output/social-video-6a155483-4744-4a05-bac7-bdb99d445ac3.mp4"}
+{"ip":"::1","level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Parámetros validados:","style":"glassmorphism","textLength":83,"username":"@bra.cuantico"}
+{"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Iniciando generación de video..."}
+{"fileSize":"4.77MB","level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Video generado exitosamente en 7614ms","outputPath":"http://localhost:3000/output/social-video-30b15528-c4a2-4316-8b84-5245bf40c264.mp4"}
+{"ip":"::1","level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Parámetros validados:","style":"glassmorphism","textLength":104,"username":"@lexurbinac"}
+{"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Iniciando generación de video..."}
+{"fileSize":"2.62MB","level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Video generado exitosamente en 6214ms","outputPath":"http://localhost:3000/output/social-video-1786c467-2e4c-4e89-a2ca-8371a40af2a8.mp4"}
+{"ip":"::1","level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":10,"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Parámetros validados:","style":"glassmorphism","textLength":104,"username":"@lexurbinac"}
+{"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Iniciando generación de video..."}
+{"fileSize":"2.41MB","level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Video generado exitosamente en 6439ms","outputPath":"http://localhost:3000/output/social-video-7e9a42a9-2faf-424c-8fb5-fd823712d27a.mp4"}
+{"ip":"::1","level":"info","message":"[ffb703c0-d992-4e1b-a3b1-3ba378a036b1] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[ffb703c0-d992-4e1b-a3b1-3ba378a036b1] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[045f6323-2d47-4717-8e64-877344b857bb] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[045f6323-2d47-4717-8e64-877344b857bb] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[c3b1d166-41ab-45c5-8570-12a42ea370f9] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[c3b1d166-41ab-45c5-8570-12a42ea370f9] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[96239039-e28d-4866-a225-d90c4ebcea52] Nueva solicitud de generación de video","userAgent":"curl/8.7.1"}
+{"0":"tweetData es requerido","level":"warn","message":"[96239039-e28d-4866-a225-d90c4ebcea52] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Iniciando generación de video..."}
+{"fileSize":"2.59MB","level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Video generado exitosamente en 6943ms","outputPath":"http://localhost:3000/output/social-video-a0ccf396-3ac0-4224-b96d-a3daa21d2be3.mp4"}
+{"ip":"::1","level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Iniciando generación de video..."}
+{"fileSize":"2.59MB","level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Video generado exitosamente en 6389ms","outputPath":"http://localhost:3000/output/social-video-6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16.mp4"}
+{"ip":"::1","level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Parámetros validados:","style":"glassmorphism","textLength":57,"username":"@lexurbinac"}
+{"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Iniciando generación de video..."}
+{"fileSize":"3.68MB","level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Video generado exitosamente en 8582ms","outputPath":"http://localhost:3000/output/social-video-fe922f0b-a603-4768-aa6b-a6edb0719b5e.mp4"}
+{"ip":"::1","level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Iniciando generación de video..."}
+{"fileSize":"2.59MB","level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Video generado exitosamente en 6315ms","outputPath":"http://localhost:3000/output/social-video-f28a670a-fafd-4fde-b71c-1e20f1152fbb.mp4"}
+{"ip":"::1","level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Parámetros validados:","style":"glassmorphism","textLength":57,"username":"@lexurbinac"}
+{"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Iniciando generación de video..."}
+{"fileSize":"3.68MB","level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Video generado exitosamente en 8835ms","outputPath":"http://localhost:3000/output/social-video-1f38af0f-159f-466b-9f17-ffadbfd5b6ea.mp4"}
+{"ip":"::1","level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Parámetros validados:","style":"glassmorphism","textLength":57,"username":"@lexurbinac"}
+{"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Iniciando generación de video..."}
+{"fileSize":"3.65MB","level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Video generado exitosamente en 9079ms","outputPath":"http://localhost:3000/output/social-video-dd1f41aa-6d11-4acb-bf4c-bafd85e78703.mp4"}
+{"ip":"::1","level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Parámetros validados:","style":"glassmorphism","textLength":45,"username":"@lexurbinac"}
+{"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Iniciando generación de video..."}
+{"fileSize":"2.48MB","level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Video generado exitosamente en 6316ms","outputPath":"http://localhost:3000/output/social-video-bb646da1-b632-4643-a0fd-0900420d9dfc.mp4"}
+{"ip":"::1","level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Iniciando generación de video..."}
+{"fileSize":"2.58MB","level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Video generado exitosamente en 8272ms","outputPath":"http://localhost:3000/output/social-video-fcc2e760-3859-4e6d-aa84-49cd7bee597c.mp4"}
+{"ip":"::1","level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Parámetros validados:","style":"glassmorphism","textLength":45,"username":"@lexurbinac"}
+{"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Iniciando generación de video..."}
+{"fileSize":"2.55MB","level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Video generado exitosamente en 7291ms","outputPath":"http://localhost:3000/output/social-video-cabfe37a-2fbb-4deb-a979-073d3513a66c.mp4"}
+{"ip":"::1","level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Parámetros validados:","style":"glassmorphism","textLength":57,"username":"@lexurbinac"}
+{"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Iniciando generación de video..."}
+{"fileSize":"3.67MB","level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Video generado exitosamente en 9042ms","outputPath":"http://localhost:3000/output/social-video-fe520c2d-e1a1-4f1a-b2db-b844499f3b5a.mp4"}
+{"ip":"::1","level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Parámetros validados:","style":"glassmorphism","textLength":57,"username":"@lexurbinac"}
+{"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Iniciando generación de video..."}
+{"fileSize":"3.71MB","level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Video generado exitosamente en 10762ms","outputPath":"http://localhost:3000/output/social-video-b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437.mp4"}
+{"ip":"::1","level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Parámetros validados:","style":"glassmorphism","textLength":45,"username":"@lexurbinac"}
+{"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Iniciando generación de video..."}
+{"fileSize":"2.56MB","level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Video generado exitosamente en 7102ms","outputPath":"http://localhost:3000/output/social-video-c554f2ae-43c6-485c-8d04-38366175e0dd.mp4"}
+{"ip":"::1","level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Iniciando generación de video..."}
+{"fileSize":"2.59MB","level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Video generado exitosamente en 6858ms","outputPath":"http://localhost:3000/output/social-video-5fd6f0ca-210d-43e6-af19-f720e1bb4fea.mp4"}
+{"ip":"::1","level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Parámetros validados:","style":"glassmorphism","textLength":243,"username":"@lexurbinac"}
+{"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Iniciando generación de video..."}
+{"fileSize":"3.09MB","level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Video generado exitosamente en 14550ms","outputPath":"http://localhost:3000/output/social-video-33620f18-4f06-4683-9024-77abd4d3f01e.mp4"}
+{"ip":"::1","level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Parámetros validados:","style":"glassmorphism","textLength":45,"username":"@lexurbinac"}
+{"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Iniciando generación de video..."}
+{"fileSize":"3.79MB","level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Video generado exitosamente en 16121ms","outputPath":"http://localhost:3000/output/social-video-7737c48b-eb81-4679-a4b5-71d574f413e7.mp4"}
+{"ip":"::1","level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Nueva solicitud de generación de video (body plano)","userAgent":"curl/8.7.1"}
+{"duration":15,"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Parámetros validados:","style":"glassmorphism","textLength":45,"username":"@lexurbinac"}
+{"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Iniciando generación de video..."}
+{"fileSize":"13.13MB","level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Video generado exitosamente en 27471ms","outputPath":"http://localhost:3000/output/social-video-f0b3d15a-8344-4148-9795-1a0a7ab2436e.mp4"}
+{"ip":"::1","level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Parámetros validados:","style":"glassmorphism","textLength":130,"username":"@bra"}
+{"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Iniciando generación de video..."}
+{"fileSize":"6.95MB","level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Video generado exitosamente en 16826ms","outputPath":"http://localhost:3000/output/social-video-a06557e0-55c1-4e97-a64d-1be5364c0058.mp4"}
+{"ip":"::1","level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@bra"}
+{"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Iniciando generación de video..."}
+{"fileSize":"8.56MB","level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Video generado exitosamente en 19420ms","outputPath":"http://localhost:3000/output/social-video-2fe22282-8484-4429-a125-bc04399ce007.mp4"}
+{"ip":"::1","level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@bra"}
+{"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Iniciando generación de video..."}
+{"fileSize":"6.45MB","level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Video generado exitosamente en 18540ms","outputPath":"http://localhost:3000/output/social-video-ab3d1272-379c-4ec4-aebf-abcdce1931e1.mp4"}
+{"ip":"::1","level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Iniciando generación de video..."}
+{"fileSize":"2.89MB","level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Video generado exitosamente en 12705ms","outputPath":"http://localhost:3000/output/social-video-2023ac59-ce9d-41ac-9b10-3403f321819d.mp4"}
+{"ip":"::1","level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Iniciando generación de video..."}
+{"fileSize":"2.99MB","level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Video generado exitosamente en 14292ms","outputPath":"http://localhost:3000/output/social-video-cf536ce9-6873-4d7e-8b92-e185efc0ce76.mp4"}
+{"ip":"::1","level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Iniciando generación de video..."}
+{"fileSize":"9.46MB","level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Video generado exitosamente en 13391ms","outputPath":"http://localhost:3000/output/social-video-e48cea2a-4c1c-4649-9afb-1fdbe1c93961.mp4"}
+{"ip":"::1","level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Iniciando generación de video..."}
+{"fileSize":"19.58MB","level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Video generado exitosamente en 29078ms","outputPath":"http://localhost:3000/output/social-video-ce6ff777-64ac-4fa6-af71-0e7a52c47dce.mp4"}
+{"ip":"::1","level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Iniciando generación de video..."}
+{"fileSize":"8.23MB","level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Video generado exitosamente en 19316ms","outputPath":"http://localhost:3000/output/social-video-5d5f7f46-461e-43dd-9554-9029fdd3414b.mp4"}
+{"ip":"::1","level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Iniciando generación de video..."}
+{"fileSize":"2.59MB","level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Video generado exitosamente en 3082ms","outputPath":"http://localhost:3000/output/social-video-2f08ec1f-2821-4685-84d5-5654eb9c3949.mp4"}
+{"ip":"::1","level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@giova.viajando"}
+{"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Iniciando generación de video..."}
+{"fileSize":"2.65MB","level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Video generado exitosamente en 3135ms","outputPath":"http://localhost:3000/output/social-video-edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d.mp4"}
+{"ip":"::1","level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@bra.cuantico"}
+{"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Iniciando generación de video..."}
+{"fileSize":"2.67MB","level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Video generado exitosamente en 3028ms","outputPath":"http://localhost:3000/output/social-video-366c0fd0-44d1-498f-b340-9cb3e1eedc14.mp4"}
+{"ip":"::1","level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Iniciando generación de video..."}
+{"fileSize":"7.43MB","level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Video generado exitosamente en 18871ms","outputPath":"http://localhost:3000/output/social-video-2e8ae927-7452-424e-abb5-c86238fa401e.mp4"}
+{"ip":"::1","level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Iniciando generación de video..."}
+{"fileSize":"5.92MB","level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Video generado exitosamente en 14392ms","outputPath":"http://localhost:3000/output/social-video-081139f2-03c3-4052-a61b-99e9bc7667b6.mp4"}
+{"ip":"::1","level":"info","message":"[40d35e34-abdf-4d29-a089-ae42fcac7cb5] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[40d35e34-abdf-4d29-a089-ae42fcac7cb5] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[b1b2cdc2-75c0-48a2-a3d9-c08a0287c54f] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[b1b2cdc2-75c0-48a2-a3d9-c08a0287c54f] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Parámetros validados:","style":"glassmorphism","textLength":199,"username":"@lexurbinac"}
+{"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Iniciando generación de video..."}
+{"fileSize":"5.82MB","level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Video generado exitosamente en 14173ms","outputPath":"http://localhost:3000/output/social-video-558770f5-6ef1-4167-8ccb-5d5257d9303e.mp4"}
+{"ip":"::1","level":"info","message":"[59354f8f-157f-415a-ac95-85a370222d22] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[59354f8f-157f-415a-ac95-85a370222d22] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Parámetros validados:","style":"glassmorphism","textLength":250,"username":"@lexurbinac"}
+{"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Iniciando generación de video..."}
+{"fileSize":"3.74MB","level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Video generado exitosamente en 13533ms","outputPath":"http://localhost:3000/output/social-video-0a3c4440-bf86-4c4c-a96a-c96fabdf0bad.mp4"}
+{"ip":"::1","level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Parámetros validados:","style":"glassmorphism","textLength":256,"username":"@lexurbinac"}
+{"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Iniciando generación de video..."}
+{"fileSize":"3.70MB","level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Video generado exitosamente en 14405ms","outputPath":"http://localhost:3000/output/social-video-08cda89c-3155-4194-b8bf-e4f73af78843.mp4"}
+{"ip":"::1","level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Parámetros validados:","style":"glassmorphism","textLength":275,"username":"@lexurbinac"}
+{"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Iniciando generación de video..."}
+{"fileSize":"3.74MB","level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Video generado exitosamente en 13875ms","outputPath":"http://localhost:3000/output/social-video-baefb672-eb26-4437-9eb1-e06944029df8.mp4"}
+{"ip":"::1","level":"info","message":"[d33e4115-aad5-4022-a206-f3a51f0f5991] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[d33e4115-aad5-4022-a206-f3a51f0f5991] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[1557618f-a28e-4f2b-8d8d-2381a8657601] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[1557618f-a28e-4f2b-8d8d-2381a8657601] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[6d416bac-890d-4808-9dbb-aa6661f94d94] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[6d416bac-890d-4808-9dbb-aa6661f94d94] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[64f7ec59-5adb-4fae-8216-92fa7eabffc4] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[64f7ec59-5adb-4fae-8216-92fa7eabffc4] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[5e078c8c-8c94-405d-a3dc-b50fde62f18c] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[5e078c8c-8c94-405d-a3dc-b50fde62f18c] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[57a7bc94-6ae9-4727-834d-8e54d9c463f3] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[57a7bc94-6ae9-4727-834d-8e54d9c463f3] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[a5b04684-d182-48c6-978a-068f0bfc5bf3] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[a5b04684-d182-48c6-978a-068f0bfc5bf3] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[e6aab44b-6a9d-4b7a-9483-0ed9e9a9368b] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[e6aab44b-6a9d-4b7a-9483-0ed9e9a9368b] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[86cd0a4c-820b-439d-a0ec-3f5391db84a8] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[86cd0a4c-820b-439d-a0ec-3f5391db84a8] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[75652bf6-6c44-4bdb-b69c-0059afca6557] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[75652bf6-6c44-4bdb-b69c-0059afca6557] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[fdde0121-78f4-457c-9e28-9d9fd4b72923] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[fdde0121-78f4-457c-9e28-9d9fd4b72923] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[5949b0e3-e4b1-4ed7-8bfb-1c2bc76e2d68] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[5949b0e3-e4b1-4ed7-8bfb-1c2bc76e2d68] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[af8f0758-e0a0-4d50-bea4-eaa7e8baf0d5] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"0":"El texto no puede exceder 280 caracteres","level":"warn","message":"[af8f0758-e0a0-4d50-bea4-eaa7e8baf0d5] Validación fallida:"}
+{"ip":"::1","level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Parámetros validados:","style":"glassmorphism","textLength":280,"username":"@lexurbinac"}
+{"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Iniciando generación de video..."}
+{"fileSize":"3.75MB","level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Video generado exitosamente en 13729ms","outputPath":"http://localhost:3000/output/social-video-c36d7eaa-2074-464c-b9ae-d980d28b17dd.mp4"}
+{"ip":"::1","level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Parámetros validados:","style":"glassmorphism","textLength":280,"username":"@giova.viajando"}
+{"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Iniciando generación de video..."}
+{"fileSize":"3.76MB","level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Video generado exitosamente en 13926ms","outputPath":"http://localhost:3000/output/social-video-5afc6124-f01e-4342-8f93-202afed106c2.mp4"}
+{"ip":"::1","level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Parámetros validados:","style":"glassmorphism","textLength":280,"username":"@lexurbinac"}
+{"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Iniciando generación de video..."}
+{"fileSize":"4.50MB","level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Video generado exitosamente en 14713ms","outputPath":"http://localhost:3000/output/social-video-4cbd8605-091e-4625-9ded-a57d02a2f7b4.mp4"}
+{"ip":"::1","level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Parámetros validados:","style":"glassmorphism","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Iniciando generación de video..."}
+{"fileSize":"2.61MB","level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Video generado exitosamente en 11425ms","outputPath":"http://localhost:3000/output/social-video-907e9f80-cd83-4042-bfe9-8d1b637696f1.mp4"}
+{"ip":"::1","level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15"}
+{"duration":10,"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Parámetros validados:","style":"glassmorphism","textLength":176,"username":"@bra.cuantico"}
+{"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Iniciando generación de video..."}
+{"fileSize":"3.53MB","level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Video generado exitosamente en 13183ms","outputPath":"http://localhost:3000/output/social-video-c9d03847-8bfd-42cb-9782-ba0bb74197b9.mp4"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"ip":"::1","level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Iniciando generación de video..."}
+{"fileSize":"3.69MB","level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Video generado exitosamente en 16090ms","outputPath":"http://localhost:3000/output/social-video-6b1d9282-55e4-4ab7-bf65-def4a94924ab.mp4"}
+{"ip":"::1","level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Iniciando generación de video..."}
+{"fileSize":"8.82MB","level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Video generado exitosamente en 25766ms","outputPath":"http://localhost:3000/output/social-video-7f24576f-c20a-4bbb-885d-86e7876d3707.mp4"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"ip":"::1","level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Iniciando generación de video..."}
+{"fileSize":"2.03MB","level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Video generado exitosamente en 11946ms","outputPath":"http://localhost:3000/output/social-video-ea86a89c-8ad4-4385-9021-644e288e645d.mp4"}
+{"ip":"::1","level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Iniciando generación de video..."}
+{"fileSize":"1.35MB","level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Video generado exitosamente en 8035ms","outputPath":"http://localhost:3000/output/social-video-86d1e2dc-2fc7-4c64-9d8f-30610759effa.mp4"}
+{"ip":"::1","level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Iniciando generación de video..."}
+{"fileSize":"1.75MB","level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Video generado exitosamente en 11448ms","outputPath":"http://localhost:3000/output/social-video-5aa6c431-5f1e-4649-b105-3edbec0e2e02.mp4"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"ip":"::1","level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Iniciando generación de video..."}
+{"fileSize":"2.90MB","level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Video generado exitosamente en 12597ms","outputPath":"http://localhost:3000/output/social-video-a085a37a-99b7-4610-aebf-f915e68d9293.mp4"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}
+{"ip":"::1","level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Nueva solicitud de generación de video (body plano)","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"}
+{"duration":10,"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Parámetros validados:","style":"glassmorphism","textLength":16,"username":"@lexurbinac"}
+{"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Iniciando generación de video..."}
+{"fileSize":"2.90MB","level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Video generado exitosamente en 13043ms","outputPath":"http://localhost:3000/output/social-video-1f081092-bbf9-4c25-a8b3-62f3b5ea7efc.mp4"}
+{"level":"info","message":"🎬 Video list endpoint accessed"}

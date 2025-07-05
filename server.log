@@ -1,0 +1,21 @@
+
+> social-video-generator@2.0.0 dev
+> ts-node server.ts
+
+info: ✅ Directorio creado/verificado: output {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.689Z"}
+info: ✅ Directorio creado/verificado: temp {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.690Z"}
+info: ✅ Directorio creado/verificado: uploads {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.690Z"}
+info: ✅ Directorio creado/verificado: logs {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.690Z"}
+info: ✅ Directorio creado/verificado: videos/tech {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.690Z"}
+info: ✅ Directorio creado/verificado: videos/nature {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.691Z"}
+info: ✅ Directorio creado/verificado: videos/urban {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.691Z"}
+info: ✅ Directorio creado/verificado: videos/abstract {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.691Z"}
+info: ✅ Directorio creado/verificado: videos/business {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.691Z"}
+info: ✅ Directorio creado/verificado: videos/custom {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.691Z"}
+info: 🚀 Social Video Generator API v2.0.0 {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.692Z"}
+info: 📡 Servidor ejecutándose en http://localhost:3000 {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.692Z"}
+info: 🌍 Entorno: development {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.692Z"}
+info: 🎬 Generación básica: ✅ Habilitada {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.693Z"}
+info: 🔍 Health check: http://localhost:3000/health {"service":"social-video-generator","timestamp":"2025-07-05T22:20:50.693Z"}
+info: API Request: GET /api/video/list {"ip":"::1","service":"social-video-generator","timestamp":"2025-07-05T22:20:56.383Z","userAgent":"curl/8.7.1"}
+info: [object Object] {"service":"social-video-generator","timestamp":"2025-07-05T22:20:56.387Z"}

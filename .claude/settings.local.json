@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(npm run dev:*)",
+      "Bash(kill:*)",
+      "Bash(curl:*)",
+      "Bash(npm install:*)",
+      "Bash(cat:*)",
+      "Bash(pkill:*)",
+      "Bash(rm:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx tsc --noEmit --skipLibCheck)",
+      "Bash(npx tsc:*)"
+    ],
+    "deny": []
+  }
+}

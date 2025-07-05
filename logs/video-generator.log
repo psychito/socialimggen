@@ -1,0 +1,649 @@
+{"animation":"fade","duration":10,"level":"info","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/videos/tech/data-flow.mp4","level":"error","message":"[1bd20957-3993-4faa-a818-4120e99a9f01] Error en generación de video después de 3ms","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/videos/tech/data-flow.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:105:24"}
+{"animation":"fade","duration":10,"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/coding-screen.mp4"}
+{"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Generando overlay glassmorphism..."}
+{"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Overlay generado: temp/overlay-2deed278-209b-4230-8140-50b642ac24fd.png"}
+{"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Combinando video con overlay..."}
+{"fileSize":"2.02MB","level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Video generado exitosamente","outputPath":"output/social-video-2deed278-209b-4230-8140-50b642ac24fd.mp4","processingTime":"4764ms"}
+{"level":"info","message":"[2deed278-209b-4230-8140-50b642ac24fd] Overlay temporal limpiado: temp/overlay-2deed278-209b-4230-8140-50b642ac24fd.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/coding-screen.mp4"}
+{"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Generando overlay glassmorphism..."}
+{"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Overlay generado: temp/overlay-0e167f52-a2d6-4b4f-9eda-c9ad0bd11127.png"}
+{"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Combinando video con overlay..."}
+{"fileSize":"2.02MB","level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Video generado exitosamente","outputPath":"output/social-video-0e167f52-a2d6-4b4f-9eda-c9ad0bd11127.mp4","processingTime":"4985ms"}
+{"level":"info","message":"[0e167f52-a2d6-4b4f-9eda-c9ad0bd11127] Overlay temporal limpiado: temp/overlay-0e167f52-a2d6-4b4f-9eda-c9ad0bd11127.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/coding-screen.mp4"}
+{"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Overlay generado: temp/overlay-a4665125-30cf-4a0b-8481-172899bc997c.png"}
+{"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Combinando video con overlay..."}
+{"fileSize":"2.02MB","level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Video generado exitosamente","outputPath":"output/social-video-a4665125-30cf-4a0b-8481-172899bc997c.mp4","processingTime":"4540ms"}
+{"level":"info","message":"[a4665125-30cf-4a0b-8481-172899bc997c] Overlay temporal limpiado: temp/overlay-a4665125-30cf-4a0b-8481-172899bc997c.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/coding-screen.mp4"}
+{"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Generando overlay glassmorphism..."}
+{"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Overlay generado: temp/overlay-c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f.png"}
+{"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Combinando video con overlay..."}
+{"fileSize":"2.02MB","level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Video generado exitosamente","outputPath":"output/social-video-c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f.mp4","processingTime":"4522ms"}
+{"level":"info","message":"[c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f] Overlay temporal limpiado: temp/overlay-c3d5e1b5-78ec-439f-b9e4-a918a6b9f30f.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/coding-screen.mp4"}
+{"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Overlay generado: temp/overlay-5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6.png"}
+{"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Combinando video con overlay..."}
+{"fileSize":"2.02MB","level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Video generado exitosamente","outputPath":"output/social-video-5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6.mp4","processingTime":"4589ms"}
+{"level":"info","message":"[5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6] Overlay temporal limpiado: temp/overlay-5fb5c9b9-48a7-4d3c-8d13-7cae5c937fe6.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Generando overlay glassmorphism..."}
+{"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Overlay generado: temp/overlay-9853b6c9-8261-42c1-9523-7e9e75f29905.png"}
+{"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Combinando video con overlay..."}
+{"fileSize":"13.95MB","level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Video generado exitosamente","outputPath":"output/social-video-9853b6c9-8261-42c1-9523-7e9e75f29905.mp4","processingTime":"42228ms"}
+{"level":"info","message":"[9853b6c9-8261-42c1-9523-7e9e75f29905] Overlay temporal limpiado: temp/overlay-9853b6c9-8261-42c1-9523-7e9e75f29905.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Generando overlay glassmorphism..."}
+{"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Overlay generado: temp/overlay-535e8b52-3644-4396-b175-2cc509bb369a.png"}
+{"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Combinando video con overlay..."}
+{"fileSize":"13.95MB","level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Video generado exitosamente","outputPath":"output/social-video-535e8b52-3644-4396-b175-2cc509bb369a.mp4","processingTime":"41349ms"}
+{"level":"info","message":"[535e8b52-3644-4396-b175-2cc509bb369a] Overlay temporal limpiado: temp/overlay-535e8b52-3644-4396-b175-2cc509bb369a.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind2.mp4"}
+{"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Generando overlay glassmorphism..."}
+{"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Overlay generado: temp/overlay-6156761e-3f86-485f-b3bc-24924decc47a.png"}
+{"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Combinando video con overlay..."}
+{"fileSize":"3.05MB","level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Video generado exitosamente","outputPath":"output/social-video-6156761e-3f86-485f-b3bc-24924decc47a.mp4","processingTime":"20309ms"}
+{"level":"info","message":"[6156761e-3f86-485f-b3bc-24924decc47a] Overlay temporal limpiado: temp/overlay-6156761e-3f86-485f-b3bc-24924decc47a.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista1.mp4"}
+{"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Generando overlay glassmorphism..."}
+{"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Overlay generado: temp/overlay-a4c79167-3962-4133-8a58-a405d01647b3.png"}
+{"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Combinando video con overlay..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Error en generación de video después de 1040ms","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at ChildProcess.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:180:11)\n    at ChildProcess.emit (node:events:524:28)\n    at ChildProcess._handle.onexit (node:internal/child_process:293:12)"}
+{"level":"info","message":"[a4c79167-3962-4133-8a58-a405d01647b3] Overlay temporal limpiado: temp/overlay-a4c79167-3962-4133-8a58-a405d01647b3.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista1.mp4"}
+{"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Generando overlay glassmorphism..."}
+{"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Overlay generado: temp/overlay-41ed3618-30fa-42cf-9732-78f86d06af80.png"}
+{"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Combinando video con overlay..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Error en generación de video después de 744ms","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at ChildProcess.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:180:11)\n    at ChildProcess.emit (node:events:524:28)\n    at ChildProcess._handle.onexit (node:internal/child_process:293:12)"}
+{"level":"info","message":"[41ed3618-30fa-42cf-9732-78f86d06af80] Overlay temporal limpiado: temp/overlay-41ed3618-30fa-42cf-9732-78f86d06af80.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Generando overlay glassmorphism..."}
+{"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Overlay generado: temp/overlay-3f29fea5-a6e8-48ab-9ab3-248ac7352349.png"}
+{"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Combinando video con overlay..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Error en generación de video después de 749ms","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at ChildProcess.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:180:11)\n    at ChildProcess.emit (node:events:524:28)\n    at ChildProcess._handle.onexit (node:internal/child_process:293:12)"}
+{"level":"info","message":"[3f29fea5-a6e8-48ab-9ab3-248ac7352349] Overlay temporal limpiado: temp/overlay-3f29fea5-a6e8-48ab-9ab3-248ac7352349.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Overlay generado: temp/overlay-99fb00cb-8244-497b-b4f3-9a288662b36c.png"}
+{"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Combinando video con overlay..."}
+{"error":"Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n","level":"error","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Error en generación de video después de 742ms","stack":"Error: Error FFmpeg: ffmpeg exited with code 234: frame=    0 fps=0.0 q=0.0 Lsize=       0KiB time=N/A bitrate=N/A speed=N/A    \nConversion failed!\n\n    at FfmpegCommand.<anonymous> (/Users/alexanderurbina/socialimggen/dist/src/utils/ffmpeg.js:63:20)\n    at FfmpegCommand.emit (node:events:524:28)\n    at emitEnd (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:422:16)\n    at endCB (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:543:13)\n    at handleExit (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:168:11)\n    at Socket.<anonymous> (/Users/alexanderurbina/socialimggen/node_modules/fluent-ffmpeg/lib/processor.js:195:11)\n    at Socket.emit (node:events:536:35)\n    at Pipe.<anonymous> (node:net:343:12)"}
+{"level":"info","message":"[99fb00cb-8244-497b-b4f3-9a288662b36c] Overlay temporal limpiado: temp/overlay-99fb00cb-8244-497b-b4f3-9a288662b36c.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Generando overlay glassmorphism..."}
+{"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Overlay generado: temp/overlay-93b3fefb-868e-47ac-8bd1-dcb85d69709b.png"}
+{"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Combinando video con overlay..."}
+{"fileSize":"0.41MB","level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Video generado exitosamente","outputPath":"output/social-video-93b3fefb-868e-47ac-8bd1-dcb85d69709b.mp4","processingTime":"3055ms"}
+{"level":"info","message":"[93b3fefb-868e-47ac-8bd1-dcb85d69709b] Overlay temporal limpiado: temp/overlay-93b3fefb-868e-47ac-8bd1-dcb85d69709b.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Overlay generado: temp/overlay-5cc08c92-09fe-4f67-8903-bd70a90f3a4a.png"}
+{"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Combinando video con overlay..."}
+{"fileSize":"0.41MB","level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Video generado exitosamente","outputPath":"output/social-video-5cc08c92-09fe-4f67-8903-bd70a90f3a4a.mp4","processingTime":"3424ms"}
+{"level":"info","message":"[5cc08c92-09fe-4f67-8903-bd70a90f3a4a] Overlay temporal limpiado: temp/overlay-5cc08c92-09fe-4f67-8903-bd70a90f3a4a.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Generando overlay glassmorphism..."}
+{"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Overlay generado: temp/overlay-a4e804c4-7843-46ab-965b-fad7e553f6dd.png"}
+{"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Combinando video con overlay..."}
+{"fileSize":"0.42MB","level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Video generado exitosamente","outputPath":"output/social-video-a4e804c4-7843-46ab-965b-fad7e553f6dd.mp4","processingTime":"3299ms"}
+{"level":"info","message":"[a4e804c4-7843-46ab-965b-fad7e553f6dd] Overlay temporal limpiado: temp/overlay-a4e804c4-7843-46ab-965b-fad7e553f6dd.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Generando overlay glassmorphism..."}
+{"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Overlay generado: temp/overlay-cbd537dd-b4d5-4c8b-9a76-944e203c2b35.png"}
+{"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Combinando video con overlay..."}
+{"fileSize":"0.42MB","level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Video generado exitosamente","outputPath":"output/social-video-cbd537dd-b4d5-4c8b-9a76-944e203c2b35.mp4","processingTime":"3308ms"}
+{"level":"info","message":"[cbd537dd-b4d5-4c8b-9a76-944e203c2b35] Overlay temporal limpiado: temp/overlay-cbd537dd-b4d5-4c8b-9a76-944e203c2b35.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Generando overlay glassmorphism..."}
+{"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Overlay generado: temp/overlay-8b2a59a5-f6e8-4d94-9025-29aa714f9393.png"}
+{"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Combinando video con overlay..."}
+{"fileSize":"2.15MB","level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Video generado exitosamente","outputPath":"output/social-video-8b2a59a5-f6e8-4d94-9025-29aa714f9393.mp4","processingTime":"4777ms"}
+{"level":"info","message":"[8b2a59a5-f6e8-4d94-9025-29aa714f9393] Overlay temporal limpiado: temp/overlay-8b2a59a5-f6e8-4d94-9025-29aa714f9393.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Generando overlay glassmorphism..."}
+{"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Overlay generado: temp/overlay-d82f295e-5cee-485d-bba1-be86b2896a19.png"}
+{"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Combinando video con overlay..."}
+{"fileSize":"0.81MB","level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Video generado exitosamente","outputPath":"output/social-video-d82f295e-5cee-485d-bba1-be86b2896a19.mp4","processingTime":"4375ms"}
+{"level":"info","message":"[d82f295e-5cee-485d-bba1-be86b2896a19] Overlay temporal limpiado: temp/overlay-d82f295e-5cee-485d-bba1-be86b2896a19.png"}
+{"animation":"fade","duration":20,"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Iniciando generación de video","style":"glassmorphism","username":"@usuario_demo"}
+{"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista3.mp4"}
+{"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Generando overlay glassmorphism..."}
+{"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Overlay generado: temp/overlay-13fde59a-d378-4a1c-8931-cfe28c59690b.png"}
+{"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Combinando video con overlay..."}
+{"fileSize":"2.91MB","level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Video generado exitosamente","outputPath":"output/social-video-13fde59a-d378-4a1c-8931-cfe28c59690b.mp4","processingTime":"8957ms"}
+{"level":"info","message":"[13fde59a-d378-4a1c-8931-cfe28c59690b] Overlay temporal limpiado: temp/overlay-13fde59a-d378-4a1c-8931-cfe28c59690b.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[ae1b55bc-fb8c-4221-8af0-3349278ffe9e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4","level":"error","message":"[ae1b55bc-fb8c-4221-8af0-3349278ffe9e] Error en generación de video después de 1ms","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"animation":"fade","duration":10,"level":"info","message":"[8fe22856-93fd-41b7-8059-a4aa177e7821] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4","level":"error","message":"[8fe22856-93fd-41b7-8059-a4aa177e7821] Error en generación de video después de 0ms","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"animation":"fade","duration":10,"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Overlay generado: temp/overlay-1648acdf-9167-40ad-9062-cfff4f7361f9.png"}
+{"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Combinando video con overlay..."}
+{"fileSize":"5.69MB","level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Video generado exitosamente","outputPath":"output/social-video-1648acdf-9167-40ad-9062-cfff4f7361f9.mp4","processingTime":"9058ms"}
+{"level":"info","message":"[1648acdf-9167-40ad-9062-cfff4f7361f9] Overlay temporal limpiado: temp/overlay-1648acdf-9167-40ad-9062-cfff4f7361f9.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[f119fbcd-ef1c-4ab8-80b5-8f298871ee3e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"error":"Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4","level":"error","message":"[f119fbcd-ef1c-4ab8-80b5-8f298871ee3e] Error en generación de video después de 1ms","stack":"Error: Video de fondo no encontrado: /Users/alexanderurbina/socialimggen/urban/skyscrapers1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"animation":"fade","duration":15,"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Generando overlay glassmorphism..."}
+{"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Overlay generado: temp/overlay-795ddb23-3ff7-4afe-a98e-426a885b528f.png"}
+{"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Combinando video con overlay..."}
+{"fileSize":"3.62MB","level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Video generado exitosamente","outputPath":"output/social-video-795ddb23-3ff7-4afe-a98e-426a885b528f.mp4","processingTime":"6242ms"}
+{"level":"info","message":"[795ddb23-3ff7-4afe-a98e-426a885b528f] Overlay temporal limpiado: temp/overlay-795ddb23-3ff7-4afe-a98e-426a885b528f.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Generando overlay glassmorphism..."}
+{"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Overlay generado: temp/overlay-c9ad7aae-e8f5-42cd-aa31-3cfca6660b61.png"}
+{"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Combinando video con overlay..."}
+{"fileSize":"3.85MB","level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Video generado exitosamente","outputPath":"output/social-video-c9ad7aae-e8f5-42cd-aa31-3cfca6660b61.mp4","processingTime":"6998ms"}
+{"level":"info","message":"[c9ad7aae-e8f5-42cd-aa31-3cfca6660b61] Overlay temporal limpiado: temp/overlay-c9ad7aae-e8f5-42cd-aa31-3cfca6660b61.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Generando overlay glassmorphism..."}
+{"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Overlay generado: temp/overlay-988c5aec-246d-424b-8f6e-84a367ca3e76.png"}
+{"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Combinando video con overlay..."}
+{"fileSize":"4.04MB","level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Video generado exitosamente","outputPath":"output/social-video-988c5aec-246d-424b-8f6e-84a367ca3e76.mp4","processingTime":"7071ms"}
+{"level":"info","message":"[988c5aec-246d-424b-8f6e-84a367ca3e76] Overlay temporal limpiado: temp/overlay-988c5aec-246d-424b-8f6e-84a367ca3e76.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Generando overlay glassmorphism..."}
+{"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Overlay generado: temp/overlay-3c34ec62-8a35-4547-9c0b-968380e4acb6.png"}
+{"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Combinando video con overlay..."}
+{"fileSize":"4.04MB","level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Video generado exitosamente","outputPath":"output/social-video-3c34ec62-8a35-4547-9c0b-968380e4acb6.mp4","processingTime":"7289ms"}
+{"level":"info","message":"[3c34ec62-8a35-4547-9c0b-968380e4acb6] Overlay temporal limpiado: temp/overlay-3c34ec62-8a35-4547-9c0b-968380e4acb6.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Generando overlay glassmorphism..."}
+{"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Overlay generado: temp/overlay-0a5a9d28-aada-4679-9deb-9a6bfd606108.png"}
+{"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Combinando video con overlay..."}
+{"fileSize":"3.79MB","level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Video generado exitosamente","outputPath":"output/social-video-0a5a9d28-aada-4679-9deb-9a6bfd606108.mp4","processingTime":"12018ms"}
+{"level":"info","message":"[0a5a9d28-aada-4679-9deb-9a6bfd606108] Overlay temporal limpiado: temp/overlay-0a5a9d28-aada-4679-9deb-9a6bfd606108.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Overlay generado: temp/overlay-1fdba156-20dd-4603-a757-cb4f8d30798e.png"}
+{"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Combinando video con overlay..."}
+{"fileSize":"2.97MB","level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Video generado exitosamente","outputPath":"output/social-video-1fdba156-20dd-4603-a757-cb4f8d30798e.mp4","processingTime":"11339ms"}
+{"level":"info","message":"[1fdba156-20dd-4603-a757-cb4f8d30798e] Overlay temporal limpiado: temp/overlay-1fdba156-20dd-4603-a757-cb4f8d30798e.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Generando overlay glassmorphism..."}
+{"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Overlay generado: temp/overlay-272ec62e-0911-4181-9841-0c21d1e3b9be.png"}
+{"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Combinando video con overlay..."}
+{"fileSize":"3.02MB","level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Video generado exitosamente","outputPath":"output/social-video-272ec62e-0911-4181-9841-0c21d1e3b9be.mp4","processingTime":"9775ms"}
+{"level":"info","message":"[272ec62e-0911-4181-9841-0c21d1e3b9be] Overlay temporal limpiado: temp/overlay-272ec62e-0911-4181-9841-0c21d1e3b9be.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Generando overlay glassmorphism..."}
+{"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Overlay generado: temp/overlay-65b49528-e3db-4a13-9bc7-b46bdf4eb610.png"}
+{"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Combinando video con overlay..."}
+{"fileSize":"2.64MB","level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Video generado exitosamente","outputPath":"output/social-video-65b49528-e3db-4a13-9bc7-b46bdf4eb610.mp4","processingTime":"9267ms"}
+{"level":"info","message":"[65b49528-e3db-4a13-9bc7-b46bdf4eb610] Overlay temporal limpiado: temp/overlay-65b49528-e3db-4a13-9bc7-b46bdf4eb610.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Overlay generado: temp/overlay-1ef2a04c-b668-49ff-9b9e-d69e98db9cc0.png"}
+{"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Combinando video con overlay..."}
+{"fileSize":"2.25MB","level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Video generado exitosamente","outputPath":"output/social-video-1ef2a04c-b668-49ff-9b9e-d69e98db9cc0.mp4","processingTime":"9319ms"}
+{"level":"info","message":"[1ef2a04c-b668-49ff-9b9e-d69e98db9cc0] Overlay temporal limpiado: temp/overlay-1ef2a04c-b668-49ff-9b9e-d69e98db9cc0.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Overlay generado: temp/overlay-f3beb4ef-7918-4a7c-b025-d7e5705c356c.png"}
+{"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Combinando video con overlay..."}
+{"fileSize":"2.55MB","level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Video generado exitosamente","outputPath":"output/social-video-f3beb4ef-7918-4a7c-b025-d7e5705c356c.mp4","processingTime":"9649ms"}
+{"level":"info","message":"[f3beb4ef-7918-4a7c-b025-d7e5705c356c] Overlay temporal limpiado: temp/overlay-f3beb4ef-7918-4a7c-b025-d7e5705c356c.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Generando overlay glassmorphism..."}
+{"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Overlay generado: temp/overlay-3bcd96f6-e00f-40b3-a448-dbc66fbf89fc.png"}
+{"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Combinando video con overlay..."}
+{"fileSize":"2.46MB","level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Video generado exitosamente","outputPath":"output/social-video-3bcd96f6-e00f-40b3-a448-dbc66fbf89fc.mp4","processingTime":"8569ms"}
+{"level":"info","message":"[3bcd96f6-e00f-40b3-a448-dbc66fbf89fc] Overlay temporal limpiado: temp/overlay-3bcd96f6-e00f-40b3-a448-dbc66fbf89fc.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Generando overlay glassmorphism..."}
+{"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Overlay generado: temp/overlay-cef3bab7-eb72-417d-b1eb-a836ba4ac8c7.png"}
+{"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Combinando video con overlay..."}
+{"fileSize":"2.75MB","level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Video generado exitosamente","outputPath":"output/social-video-cef3bab7-eb72-417d-b1eb-a836ba4ac8c7.mp4","processingTime":"8081ms"}
+{"level":"info","message":"[cef3bab7-eb72-417d-b1eb-a836ba4ac8c7] Overlay temporal limpiado: temp/overlay-cef3bab7-eb72-417d-b1eb-a836ba4ac8c7.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"error":"Video de fondo no especificado","level":"error","message":"[7fccf69a-3cab-4adb-8c2f-3c746eae70a8] Error en generación de video después de 0ms","stack":"Error: Video de fondo no especificado\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:39:19)\n    at /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:65\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/index.js:280:10)\n    at Layer.handle [as handle_request] (/Users/alexanderurbina/socialimggen/node_modules/express/lib/router/layer.js:91:12)"}
+{"animation":"fade","duration":10,"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Generando overlay glassmorphism..."}
+{"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Overlay generado: temp/overlay-df588017-23bc-42f5-8c8a-4b06883e9287.png"}
+{"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Combinando video con overlay..."}
+{"fileSize":"4.76MB","level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Video generado exitosamente","outputPath":"output/social-video-df588017-23bc-42f5-8c8a-4b06883e9287.mp4","processingTime":"7895ms"}
+{"level":"info","message":"[df588017-23bc-42f5-8c8a-4b06883e9287] Overlay temporal limpiado: temp/overlay-df588017-23bc-42f5-8c8a-4b06883e9287.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Overlay generado: temp/overlay-64414405-1707-4a6f-b61c-7b0a2aaed23c.png"}
+{"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Combinando video con overlay..."}
+{"fileSize":"2.01MB","level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Video generado exitosamente","outputPath":"output/social-video-64414405-1707-4a6f-b61c-7b0a2aaed23c.mp4","processingTime":"7654ms"}
+{"level":"info","message":"[64414405-1707-4a6f-b61c-7b0a2aaed23c] Overlay temporal limpiado: temp/overlay-64414405-1707-4a6f-b61c-7b0a2aaed23c.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Generando overlay glassmorphism..."}
+{"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Overlay generado: temp/overlay-8de0ae4f-fd9a-423b-83aa-a5a781094697.png"}
+{"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Combinando video con overlay..."}
+{"fileSize":"2.01MB","level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Video generado exitosamente","outputPath":"output/social-video-8de0ae4f-fd9a-423b-83aa-a5a781094697.mp4","processingTime":"6834ms"}
+{"level":"info","message":"[8de0ae4f-fd9a-423b-83aa-a5a781094697] Overlay temporal limpiado: temp/overlay-8de0ae4f-fd9a-423b-83aa-a5a781094697.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Overlay generado: temp/overlay-5bfa0cc7-3ffd-4353-aa77-425543de68b4.png"}
+{"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Combinando video con overlay..."}
+{"fileSize":"2.01MB","level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Video generado exitosamente","outputPath":"output/social-video-5bfa0cc7-3ffd-4353-aa77-425543de68b4.mp4","processingTime":"6416ms"}
+{"level":"info","message":"[5bfa0cc7-3ffd-4353-aa77-425543de68b4] Overlay temporal limpiado: temp/overlay-5bfa0cc7-3ffd-4353-aa77-425543de68b4.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[d88294ab-d58e-4a31-8ee6-057856133fb1] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"error":"Video de fondo no encontrado: /videos/nature/forest-wind1.mp4","level":"error","message":"[d88294ab-d58e-4a31-8ee6-057856133fb1] Error en generación de video después de 1ms","stack":"Error: Video de fondo no encontrado: /videos/nature/forest-wind1.mp4\n    at generateVideo (/Users/alexanderurbina/socialimggen/dist/src/services/videoGenerator.js:47:19)\n    at async /Users/alexanderurbina/socialimggen/dist/src/routes/video.js:388:24"}
+{"animation":"fade","duration":10,"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Overlay generado: temp/overlay-0391ea43-9f71-44c3-8954-edaae70bb52c.png"}
+{"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Combinando video con overlay..."}
+{"fileSize":"4.75MB","level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Video generado exitosamente","outputPath":"output/social-video-0391ea43-9f71-44c3-8954-edaae70bb52c.mp4","processingTime":"7387ms"}
+{"level":"info","message":"[0391ea43-9f71-44c3-8954-edaae70bb52c] Overlay temporal limpiado: temp/overlay-0391ea43-9f71-44c3-8954-edaae70bb52c.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Generando overlay glassmorphism..."}
+{"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Overlay generado: temp/overlay-e597b5a5-81e7-46e1-94e6-85b43022bbba.png"}
+{"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Combinando video con overlay..."}
+{"fileSize":"2.01MB","level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Video generado exitosamente","outputPath":"output/social-video-e597b5a5-81e7-46e1-94e6-85b43022bbba.mp4","processingTime":"6130ms"}
+{"level":"info","message":"[e597b5a5-81e7-46e1-94e6-85b43022bbba] Overlay temporal limpiado: temp/overlay-e597b5a5-81e7-46e1-94e6-85b43022bbba.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Generando overlay glassmorphism..."}
+{"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Overlay generado: temp/overlay-4c44699a-2d37-4fdb-9748-485123119688.png"}
+{"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Combinando video con overlay..."}
+{"fileSize":"2.01MB","level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Video generado exitosamente","outputPath":"output/social-video-4c44699a-2d37-4fdb-9748-485123119688.mp4","processingTime":"6500ms"}
+{"level":"info","message":"[4c44699a-2d37-4fdb-9748-485123119688] Overlay temporal limpiado: temp/overlay-4c44699a-2d37-4fdb-9748-485123119688.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Generando overlay glassmorphism..."}
+{"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Overlay generado: temp/overlay-dfff9a32-3975-4ac7-8376-6f5a4834c1a1.png"}
+{"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Combinando video con overlay..."}
+{"fileSize":"4.75MB","level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Video generado exitosamente","outputPath":"output/social-video-dfff9a32-3975-4ac7-8376-6f5a4834c1a1.mp4","processingTime":"6970ms"}
+{"level":"info","message":"[dfff9a32-3975-4ac7-8376-6f5a4834c1a1] Overlay temporal limpiado: temp/overlay-dfff9a32-3975-4ac7-8376-6f5a4834c1a1.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Generando overlay glassmorphism..."}
+{"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Overlay generado: temp/overlay-0c3a211c-6486-4fa5-8ccb-ad86d1b41780.png"}
+{"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Combinando video con overlay..."}
+{"fileSize":"2.01MB","level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Video generado exitosamente","outputPath":"output/social-video-0c3a211c-6486-4fa5-8ccb-ad86d1b41780.mp4","processingTime":"5233ms"}
+{"level":"info","message":"[0c3a211c-6486-4fa5-8ccb-ad86d1b41780] Overlay temporal limpiado: temp/overlay-0c3a211c-6486-4fa5-8ccb-ad86d1b41780.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Overlay generado: temp/overlay-1f63e618-58a8-438a-8c15-2f6a8bef7669.png"}
+{"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Combinando video con overlay..."}
+{"fileSize":"2.02MB","level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Video generado exitosamente","outputPath":"output/social-video-1f63e618-58a8-438a-8c15-2f6a8bef7669.mp4","processingTime":"5481ms"}
+{"level":"info","message":"[1f63e618-58a8-438a-8c15-2f6a8bef7669] Overlay temporal limpiado: temp/overlay-1f63e618-58a8-438a-8c15-2f6a8bef7669.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista2.mp4"}
+{"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Generando overlay glassmorphism..."}
+{"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Overlay generado: temp/overlay-6a155483-4744-4a05-bac7-bdb99d445ac3.png"}
+{"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Combinando video con overlay..."}
+{"fileSize":"2.37MB","level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Video generado exitosamente","outputPath":"output/social-video-6a155483-4744-4a05-bac7-bdb99d445ac3.mp4","processingTime":"5520ms"}
+{"level":"info","message":"[6a155483-4744-4a05-bac7-bdb99d445ac3] Overlay temporal limpiado: temp/overlay-6a155483-4744-4a05-bac7-bdb99d445ac3.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind3.mp4"}
+{"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Generando overlay glassmorphism..."}
+{"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Overlay generado: temp/overlay-30b15528-c4a2-4316-8b84-5245bf40c264.png"}
+{"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Combinando video con overlay..."}
+{"fileSize":"4.77MB","level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Video generado exitosamente","outputPath":"output/social-video-30b15528-c4a2-4316-8b84-5245bf40c264.mp4","processingTime":"7613ms"}
+{"level":"info","message":"[30b15528-c4a2-4316-8b84-5245bf40c264] Overlay temporal limpiado: temp/overlay-30b15528-c4a2-4316-8b84-5245bf40c264.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista4.mp4"}
+{"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Overlay generado: temp/overlay-1786c467-2e4c-4e89-a2ca-8371a40af2a8.png"}
+{"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Combinando video con overlay..."}
+{"fileSize":"2.62MB","level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Video generado exitosamente","outputPath":"output/social-video-1786c467-2e4c-4e89-a2ca-8371a40af2a8.mp4","processingTime":"6213ms"}
+{"level":"info","message":"[1786c467-2e4c-4e89-a2ca-8371a40af2a8] Overlay temporal limpiado: temp/overlay-1786c467-2e4c-4e89-a2ca-8371a40af2a8.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista4.mp4"}
+{"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Generando overlay glassmorphism..."}
+{"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Overlay generado: temp/overlay-7e9a42a9-2faf-424c-8fb5-fd823712d27a.png"}
+{"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Combinando video con overlay..."}
+{"fileSize":"2.41MB","level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Video generado exitosamente","outputPath":"output/social-video-7e9a42a9-2faf-424c-8fb5-fd823712d27a.mp4","processingTime":"6437ms"}
+{"level":"info","message":"[7e9a42a9-2faf-424c-8fb5-fd823712d27a] Overlay temporal limpiado: temp/overlay-7e9a42a9-2faf-424c-8fb5-fd823712d27a.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Generando overlay glassmorphism..."}
+{"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Overlay generado: temp/overlay-a0ccf396-3ac0-4224-b96d-a3daa21d2be3.png"}
+{"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Combinando video con overlay..."}
+{"fileSize":"2.59MB","level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Video generado exitosamente","outputPath":"output/social-video-a0ccf396-3ac0-4224-b96d-a3daa21d2be3.mp4","processingTime":"6941ms"}
+{"level":"info","message":"[a0ccf396-3ac0-4224-b96d-a3daa21d2be3] Overlay temporal limpiado: temp/overlay-a0ccf396-3ac0-4224-b96d-a3daa21d2be3.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Generando overlay glassmorphism..."}
+{"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Overlay generado: temp/overlay-6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16.png"}
+{"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Combinando video con overlay..."}
+{"fileSize":"2.59MB","level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Video generado exitosamente","outputPath":"output/social-video-6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16.mp4","processingTime":"6388ms"}
+{"level":"info","message":"[6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16] Overlay temporal limpiado: temp/overlay-6b70334a-b9c3-43d2-bf9b-6a9bdc3cee16.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Generando overlay glassmorphism..."}
+{"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Overlay generado: temp/overlay-fe922f0b-a603-4768-aa6b-a6edb0719b5e.png"}
+{"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Combinando video con overlay..."}
+{"fileSize":"3.68MB","level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Video generado exitosamente","outputPath":"output/social-video-fe922f0b-a603-4768-aa6b-a6edb0719b5e.mp4","processingTime":"8581ms"}
+{"level":"info","message":"[fe922f0b-a603-4768-aa6b-a6edb0719b5e] Overlay temporal limpiado: temp/overlay-fe922f0b-a603-4768-aa6b-a6edb0719b5e.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Generando overlay glassmorphism..."}
+{"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Overlay generado: temp/overlay-f28a670a-fafd-4fde-b71c-1e20f1152fbb.png"}
+{"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Combinando video con overlay..."}
+{"fileSize":"2.59MB","level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Video generado exitosamente","outputPath":"output/social-video-f28a670a-fafd-4fde-b71c-1e20f1152fbb.mp4","processingTime":"6314ms"}
+{"level":"info","message":"[f28a670a-fafd-4fde-b71c-1e20f1152fbb] Overlay temporal limpiado: temp/overlay-f28a670a-fafd-4fde-b71c-1e20f1152fbb.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Overlay generado: temp/overlay-1f38af0f-159f-466b-9f17-ffadbfd5b6ea.png"}
+{"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Combinando video con overlay..."}
+{"fileSize":"3.68MB","level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Video generado exitosamente","outputPath":"output/social-video-1f38af0f-159f-466b-9f17-ffadbfd5b6ea.mp4","processingTime":"8833ms"}
+{"level":"info","message":"[1f38af0f-159f-466b-9f17-ffadbfd5b6ea] Overlay temporal limpiado: temp/overlay-1f38af0f-159f-466b-9f17-ffadbfd5b6ea.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Generando overlay glassmorphism..."}
+{"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Overlay generado: temp/overlay-dd1f41aa-6d11-4acb-bf4c-bafd85e78703.png"}
+{"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Combinando video con overlay..."}
+{"fileSize":"3.65MB","level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Video generado exitosamente","outputPath":"output/social-video-dd1f41aa-6d11-4acb-bf4c-bafd85e78703.mp4","processingTime":"9077ms"}
+{"level":"info","message":"[dd1f41aa-6d11-4acb-bf4c-bafd85e78703] Overlay temporal limpiado: temp/overlay-dd1f41aa-6d11-4acb-bf4c-bafd85e78703.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Generando overlay glassmorphism..."}
+{"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Overlay generado: temp/overlay-bb646da1-b632-4643-a0fd-0900420d9dfc.png"}
+{"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Combinando video con overlay..."}
+{"fileSize":"2.48MB","level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Video generado exitosamente","outputPath":"output/social-video-bb646da1-b632-4643-a0fd-0900420d9dfc.mp4","processingTime":"6315ms"}
+{"level":"info","message":"[bb646da1-b632-4643-a0fd-0900420d9dfc] Overlay temporal limpiado: temp/overlay-bb646da1-b632-4643-a0fd-0900420d9dfc.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Overlay generado: temp/overlay-fcc2e760-3859-4e6d-aa84-49cd7bee597c.png"}
+{"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Combinando video con overlay..."}
+{"fileSize":"2.58MB","level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Video generado exitosamente","outputPath":"output/social-video-fcc2e760-3859-4e6d-aa84-49cd7bee597c.mp4","processingTime":"8270ms"}
+{"level":"info","message":"[fcc2e760-3859-4e6d-aa84-49cd7bee597c] Overlay temporal limpiado: temp/overlay-fcc2e760-3859-4e6d-aa84-49cd7bee597c.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Generando overlay glassmorphism..."}
+{"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Overlay generado: temp/overlay-cabfe37a-2fbb-4deb-a979-073d3513a66c.png"}
+{"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Combinando video con overlay..."}
+{"fileSize":"2.55MB","level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Video generado exitosamente","outputPath":"output/social-video-cabfe37a-2fbb-4deb-a979-073d3513a66c.mp4","processingTime":"7289ms"}
+{"level":"info","message":"[cabfe37a-2fbb-4deb-a979-073d3513a66c] Overlay temporal limpiado: temp/overlay-cabfe37a-2fbb-4deb-a979-073d3513a66c.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Generando overlay glassmorphism..."}
+{"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Overlay generado: temp/overlay-fe520c2d-e1a1-4f1a-b2db-b844499f3b5a.png"}
+{"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Combinando video con overlay..."}
+{"fileSize":"3.67MB","level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Video generado exitosamente","outputPath":"output/social-video-fe520c2d-e1a1-4f1a-b2db-b844499f3b5a.mp4","processingTime":"9038ms"}
+{"level":"info","message":"[fe520c2d-e1a1-4f1a-b2db-b844499f3b5a] Overlay temporal limpiado: temp/overlay-fe520c2d-e1a1-4f1a-b2db-b844499f3b5a.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Generando overlay glassmorphism..."}
+{"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Overlay generado: temp/overlay-b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437.png"}
+{"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Combinando video con overlay..."}
+{"fileSize":"3.71MB","level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Video generado exitosamente","outputPath":"output/social-video-b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437.mp4","processingTime":"10760ms"}
+{"level":"info","message":"[b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437] Overlay temporal limpiado: temp/overlay-b5a4f33c-f060-4fc8-8b8c-0ffe30f3f437.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Generando overlay glassmorphism..."}
+{"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Overlay generado: temp/overlay-c554f2ae-43c6-485c-8d04-38366175e0dd.png"}
+{"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Combinando video con overlay..."}
+{"fileSize":"2.56MB","level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Video generado exitosamente","outputPath":"output/social-video-c554f2ae-43c6-485c-8d04-38366175e0dd.mp4","processingTime":"7101ms"}
+{"level":"info","message":"[c554f2ae-43c6-485c-8d04-38366175e0dd] Overlay temporal limpiado: temp/overlay-c554f2ae-43c6-485c-8d04-38366175e0dd.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Overlay generado: temp/overlay-5fd6f0ca-210d-43e6-af19-f720e1bb4fea.png"}
+{"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Combinando video con overlay..."}
+{"fileSize":"2.59MB","level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Video generado exitosamente","outputPath":"output/social-video-5fd6f0ca-210d-43e6-af19-f720e1bb4fea.mp4","processingTime":"6857ms"}
+{"level":"info","message":"[5fd6f0ca-210d-43e6-af19-f720e1bb4fea] Overlay temporal limpiado: temp/overlay-5fd6f0ca-210d-43e6-af19-f720e1bb4fea.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers1.mp4"}
+{"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Generando overlay glassmorphism..."}
+{"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Overlay generado: temp/overlay-33620f18-4f06-4683-9024-77abd4d3f01e.png"}
+{"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Combinando video con overlay..."}
+{"fileSize":"3.09MB","level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Video generado exitosamente","outputPath":"output/social-video-33620f18-4f06-4683-9024-77abd4d3f01e.mp4","processingTime":"14550ms"}
+{"level":"info","message":"[33620f18-4f06-4683-9024-77abd4d3f01e] Overlay temporal limpiado: temp/overlay-33620f18-4f06-4683-9024-77abd4d3f01e.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Generando overlay glassmorphism..."}
+{"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Overlay generado: temp/overlay-7737c48b-eb81-4679-a4b5-71d574f413e7.png"}
+{"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Combinando video con overlay..."}
+{"fileSize":"3.79MB","level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Video generado exitosamente","outputPath":"output/social-video-7737c48b-eb81-4679-a4b5-71d574f413e7.mp4","processingTime":"16119ms"}
+{"level":"info","message":"[7737c48b-eb81-4679-a4b5-71d574f413e7] Overlay temporal limpiado: temp/overlay-7737c48b-eb81-4679-a4b5-71d574f413e7.png"}
+{"animation":"fade","duration":15,"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Generando overlay glassmorphism..."}
+{"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Overlay generado: temp/overlay-f0b3d15a-8344-4148-9795-1a0a7ab2436e.png"}
+{"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Combinando video con overlay..."}
+{"fileSize":"13.13MB","level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Video generado exitosamente","outputPath":"output/social-video-f0b3d15a-8344-4148-9795-1a0a7ab2436e.mp4","processingTime":"27469ms"}
+{"level":"info","message":"[f0b3d15a-8344-4148-9795-1a0a7ab2436e] Overlay temporal limpiado: temp/overlay-f0b3d15a-8344-4148-9795-1a0a7ab2436e.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Iniciando generación de video","style":"glassmorphism","username":"@bra"}
+{"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/sunrise-drone1.mp4"}
+{"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Generando overlay glassmorphism..."}
+{"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Overlay generado: temp/overlay-a06557e0-55c1-4e97-a64d-1be5364c0058.png"}
+{"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Combinando video con overlay..."}
+{"fileSize":"6.95MB","level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Video generado exitosamente","outputPath":"output/social-video-a06557e0-55c1-4e97-a64d-1be5364c0058.mp4","processingTime":"16824ms"}
+{"level":"info","message":"[a06557e0-55c1-4e97-a64d-1be5364c0058] Overlay temporal limpiado: temp/overlay-a06557e0-55c1-4e97-a64d-1be5364c0058.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Iniciando generación de video","style":"glassmorphism","username":"@bra"}
+{"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Generando overlay glassmorphism..."}
+{"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Overlay generado: temp/overlay-2fe22282-8484-4429-a125-bc04399ce007.png"}
+{"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Combinando video con overlay..."}
+{"fileSize":"8.56MB","level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Video generado exitosamente","outputPath":"output/social-video-2fe22282-8484-4429-a125-bc04399ce007.mp4","processingTime":"19418ms"}
+{"level":"info","message":"[2fe22282-8484-4429-a125-bc04399ce007] Overlay temporal limpiado: temp/overlay-2fe22282-8484-4429-a125-bc04399ce007.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Iniciando generación de video","style":"glassmorphism","username":"@bra"}
+{"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/sunrise-drone2.mp4"}
+{"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Generando overlay glassmorphism..."}
+{"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Overlay generado: temp/overlay-ab3d1272-379c-4ec4-aebf-abcdce1931e1.png"}
+{"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Combinando video con overlay..."}
+{"fileSize":"6.45MB","level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Video generado exitosamente","outputPath":"output/social-video-ab3d1272-379c-4ec4-aebf-abcdce1931e1.mp4","processingTime":"18539ms"}
+{"level":"info","message":"[ab3d1272-379c-4ec4-aebf-abcdce1931e1] Overlay temporal limpiado: temp/overlay-ab3d1272-379c-4ec4-aebf-abcdce1931e1.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Generando overlay glassmorphism..."}
+{"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Overlay generado: temp/overlay-2023ac59-ce9d-41ac-9b10-3403f321819d.png"}
+{"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Combinando video con overlay..."}
+{"fileSize":"2.89MB","level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Video generado exitosamente","outputPath":"output/social-video-2023ac59-ce9d-41ac-9b10-3403f321819d.mp4","processingTime":"12703ms"}
+{"level":"info","message":"[2023ac59-ce9d-41ac-9b10-3403f321819d] Overlay temporal limpiado: temp/overlay-2023ac59-ce9d-41ac-9b10-3403f321819d.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Generando overlay glassmorphism..."}
+{"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Overlay generado: temp/overlay-cf536ce9-6873-4d7e-8b92-e185efc0ce76.png"}
+{"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Combinando video con overlay..."}
+{"fileSize":"2.99MB","level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Video generado exitosamente","outputPath":"output/social-video-cf536ce9-6873-4d7e-8b92-e185efc0ce76.mp4","processingTime":"14291ms"}
+{"level":"info","message":"[cf536ce9-6873-4d7e-8b92-e185efc0ce76] Overlay temporal limpiado: temp/overlay-cf536ce9-6873-4d7e-8b92-e185efc0ce76.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/city-lights3.mp4"}
+{"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Generando overlay glassmorphism..."}
+{"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Overlay generado: temp/overlay-e48cea2a-4c1c-4649-9afb-1fdbe1c93961.png"}
+{"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Combinando video con overlay..."}
+{"fileSize":"9.46MB","level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Video generado exitosamente","outputPath":"output/social-video-e48cea2a-4c1c-4649-9afb-1fdbe1c93961.mp4","processingTime":"13386ms"}
+{"level":"info","message":"[e48cea2a-4c1c-4649-9afb-1fdbe1c93961] Overlay temporal limpiado: temp/overlay-e48cea2a-4c1c-4649-9afb-1fdbe1c93961.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/city-lights3.mp4"}
+{"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Generando overlay glassmorphism..."}
+{"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Overlay generado: temp/overlay-ce6ff777-64ac-4fa6-af71-0e7a52c47dce.png"}
+{"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Combinando video con overlay..."}
+{"fileSize":"19.58MB","level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Video generado exitosamente","outputPath":"output/social-video-ce6ff777-64ac-4fa6-af71-0e7a52c47dce.mp4","processingTime":"29077ms"}
+{"level":"info","message":"[ce6ff777-64ac-4fa6-af71-0e7a52c47dce] Overlay temporal limpiado: temp/overlay-ce6ff777-64ac-4fa6-af71-0e7a52c47dce.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Overlay generado: temp/overlay-5d5f7f46-461e-43dd-9554-9029fdd3414b.png"}
+{"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Combinando video con overlay..."}
+{"fileSize":"8.23MB","level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Video generado exitosamente","outputPath":"output/social-video-5d5f7f46-461e-43dd-9554-9029fdd3414b.mp4","processingTime":"19315ms"}
+{"level":"info","message":"[5d5f7f46-461e-43dd-9554-9029fdd3414b] Overlay temporal limpiado: temp/overlay-5d5f7f46-461e-43dd-9554-9029fdd3414b.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/abstract/particles2.mp4"}
+{"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Generando overlay glassmorphism..."}
+{"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Overlay generado: temp/overlay-2f08ec1f-2821-4685-84d5-5654eb9c3949.png"}
+{"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Combinando video con overlay..."}
+{"fileSize":"2.59MB","level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Video generado exitosamente","outputPath":"output/social-video-2f08ec1f-2821-4685-84d5-5654eb9c3949.mp4","processingTime":"3080ms"}
+{"level":"info","message":"[2f08ec1f-2821-4685-84d5-5654eb9c3949] Overlay temporal limpiado: temp/overlay-2f08ec1f-2821-4685-84d5-5654eb9c3949.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Iniciando generación de video","style":"glassmorphism","username":"@giova.viajando"}
+{"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/abstract/particles2.mp4"}
+{"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Generando overlay glassmorphism..."}
+{"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Overlay generado: temp/overlay-edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d.png"}
+{"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Combinando video con overlay..."}
+{"fileSize":"2.65MB","level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Video generado exitosamente","outputPath":"output/social-video-edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d.mp4","processingTime":"3134ms"}
+{"level":"info","message":"[edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d] Overlay temporal limpiado: temp/overlay-edb9fa36-3c9b-4b7c-8b60-1d43dbab3f0d.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/abstract/particles2.mp4"}
+{"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Generando overlay glassmorphism..."}
+{"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Overlay generado: temp/overlay-366c0fd0-44d1-498f-b340-9cb3e1eedc14.png"}
+{"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Combinando video con overlay..."}
+{"fileSize":"2.67MB","level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Video generado exitosamente","outputPath":"output/social-video-366c0fd0-44d1-498f-b340-9cb3e1eedc14.mp4","processingTime":"3027ms"}
+{"level":"info","message":"[366c0fd0-44d1-498f-b340-9cb3e1eedc14] Overlay temporal limpiado: temp/overlay-366c0fd0-44d1-498f-b340-9cb3e1eedc14.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/ocean-waves3.mp4"}
+{"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Generando overlay glassmorphism..."}
+{"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Overlay generado: temp/overlay-2e8ae927-7452-424e-abb5-c86238fa401e.png"}
+{"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Combinando video con overlay..."}
+{"fileSize":"7.43MB","level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Video generado exitosamente","outputPath":"output/social-video-2e8ae927-7452-424e-abb5-c86238fa401e.mp4","processingTime":"18870ms"}
+{"level":"info","message":"[2e8ae927-7452-424e-abb5-c86238fa401e] Overlay temporal limpiado: temp/overlay-2e8ae927-7452-424e-abb5-c86238fa401e.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/server-room3.mp4"}
+{"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Generando overlay glassmorphism..."}
+{"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Overlay generado: temp/overlay-081139f2-03c3-4052-a61b-99e9bc7667b6.png"}
+{"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Combinando video con overlay..."}
+{"fileSize":"5.92MB","level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Video generado exitosamente","outputPath":"output/social-video-081139f2-03c3-4052-a61b-99e9bc7667b6.mp4","processingTime":"14391ms"}
+{"level":"info","message":"[081139f2-03c3-4052-a61b-99e9bc7667b6] Overlay temporal limpiado: temp/overlay-081139f2-03c3-4052-a61b-99e9bc7667b6.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/tech/server-room3.mp4"}
+{"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Generando overlay glassmorphism..."}
+{"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Overlay generado: temp/overlay-558770f5-6ef1-4167-8ccb-5d5257d9303e.png"}
+{"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Combinando video con overlay..."}
+{"fileSize":"5.82MB","level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Video generado exitosamente","outputPath":"output/social-video-558770f5-6ef1-4167-8ccb-5d5257d9303e.mp4","processingTime":"14172ms"}
+{"level":"info","message":"[558770f5-6ef1-4167-8ccb-5d5257d9303e] Overlay temporal limpiado: temp/overlay-558770f5-6ef1-4167-8ccb-5d5257d9303e.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Generando overlay glassmorphism..."}
+{"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Overlay generado: temp/overlay-0a3c4440-bf86-4c4c-a96a-c96fabdf0bad.png"}
+{"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Combinando video con overlay..."}
+{"fileSize":"3.74MB","level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Video generado exitosamente","outputPath":"output/social-video-0a3c4440-bf86-4c4c-a96a-c96fabdf0bad.mp4","processingTime":"13530ms"}
+{"level":"info","message":"[0a3c4440-bf86-4c4c-a96a-c96fabdf0bad] Overlay temporal limpiado: temp/overlay-0a3c4440-bf86-4c4c-a96a-c96fabdf0bad.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Generando overlay glassmorphism..."}
+{"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Overlay generado: temp/overlay-08cda89c-3155-4194-b8bf-e4f73af78843.png"}
+{"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Combinando video con overlay..."}
+{"fileSize":"3.70MB","level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Video generado exitosamente","outputPath":"output/social-video-08cda89c-3155-4194-b8bf-e4f73af78843.mp4","processingTime":"14405ms"}
+{"level":"info","message":"[08cda89c-3155-4194-b8bf-e4f73af78843] Overlay temporal limpiado: temp/overlay-08cda89c-3155-4194-b8bf-e4f73af78843.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Generando overlay glassmorphism..."}
+{"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Overlay generado: temp/overlay-baefb672-eb26-4437-9eb1-e06944029df8.png"}
+{"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Combinando video con overlay..."}
+{"fileSize":"3.74MB","level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Video generado exitosamente","outputPath":"output/social-video-baefb672-eb26-4437-9eb1-e06944029df8.mp4","processingTime":"13874ms"}
+{"level":"info","message":"[baefb672-eb26-4437-9eb1-e06944029df8] Overlay temporal limpiado: temp/overlay-baefb672-eb26-4437-9eb1-e06944029df8.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Generando overlay glassmorphism..."}
+{"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Overlay generado: temp/overlay-c36d7eaa-2074-464c-b9ae-d980d28b17dd.png"}
+{"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Combinando video con overlay..."}
+{"fileSize":"3.75MB","level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Video generado exitosamente","outputPath":"output/social-video-c36d7eaa-2074-464c-b9ae-d980d28b17dd.mp4","processingTime":"13729ms"}
+{"level":"info","message":"[c36d7eaa-2074-464c-b9ae-d980d28b17dd] Overlay temporal limpiado: temp/overlay-c36d7eaa-2074-464c-b9ae-d980d28b17dd.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Iniciando generación de video","style":"glassmorphism","username":"@giova.viajando"}
+{"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Overlay generado: temp/overlay-5afc6124-f01e-4342-8f93-202afed106c2.png"}
+{"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Combinando video con overlay..."}
+{"fileSize":"3.76MB","level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Video generado exitosamente","outputPath":"output/social-video-5afc6124-f01e-4342-8f93-202afed106c2.mp4","processingTime":"13924ms"}
+{"level":"info","message":"[5afc6124-f01e-4342-8f93-202afed106c2] Overlay temporal limpiado: temp/overlay-5afc6124-f01e-4342-8f93-202afed106c2.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Generando overlay glassmorphism..."}
+{"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Overlay generado: temp/overlay-4cbd8605-091e-4625-9ded-a57d02a2f7b4.png"}
+{"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Combinando video con overlay..."}
+{"fileSize":"4.50MB","level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Video generado exitosamente","outputPath":"output/social-video-4cbd8605-091e-4625-9ded-a57d02a2f7b4.mp4","processingTime":"14712ms"}
+{"level":"info","message":"[4cbd8605-091e-4625-9ded-a57d02a2f7b4] Overlay temporal limpiado: temp/overlay-4cbd8605-091e-4625-9ded-a57d02a2f7b4.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/urban/skyscrapers3.mp4"}
+{"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Generando overlay glassmorphism..."}
+{"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Overlay generado: temp/overlay-907e9f80-cd83-4042-bfe9-8d1b637696f1.png"}
+{"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Combinando video con overlay..."}
+{"fileSize":"2.61MB","level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Video generado exitosamente","outputPath":"output/social-video-907e9f80-cd83-4042-bfe9-8d1b637696f1.mp4","processingTime":"11424ms"}
+{"level":"info","message":"[907e9f80-cd83-4042-bfe9-8d1b637696f1] Overlay temporal limpiado: temp/overlay-907e9f80-cd83-4042-bfe9-8d1b637696f1.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Iniciando generación de video","style":"glassmorphism","username":"@bra.cuantico"}
+{"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/sunrise-drone2.mp4"}
+{"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Generando overlay glassmorphism..."}
+{"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Overlay generado: temp/overlay-c9d03847-8bfd-42cb-9782-ba0bb74197b9.png"}
+{"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Combinando video con overlay..."}
+{"fileSize":"3.53MB","level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Video generado exitosamente","outputPath":"output/social-video-c9d03847-8bfd-42cb-9782-ba0bb74197b9.mp4","processingTime":"13182ms"}
+{"level":"info","message":"[c9d03847-8bfd-42cb-9782-ba0bb74197b9] Overlay temporal limpiado: temp/overlay-c9d03847-8bfd-42cb-9782-ba0bb74197b9.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Generando overlay glassmorphism..."}
+{"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Overlay generado: temp/overlay-6b1d9282-55e4-4ab7-bf65-def4a94924ab.png"}
+{"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Combinando video con overlay..."}
+{"fileSize":"3.69MB","level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Video generado exitosamente","outputPath":"output/social-video-6b1d9282-55e4-4ab7-bf65-def4a94924ab.mp4","processingTime":"16088ms"}
+{"level":"info","message":"[6b1d9282-55e4-4ab7-bf65-def4a94924ab] Overlay temporal limpiado: temp/overlay-6b1d9282-55e4-4ab7-bf65-def4a94924ab.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Generando overlay glassmorphism..."}
+{"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Overlay generado: temp/overlay-7f24576f-c20a-4bbb-885d-86e7876d3707.png"}
+{"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Combinando video con overlay..."}
+{"fileSize":"8.82MB","level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Video generado exitosamente","outputPath":"output/social-video-7f24576f-c20a-4bbb-885d-86e7876d3707.mp4","processingTime":"25765ms"}
+{"level":"info","message":"[7f24576f-c20a-4bbb-885d-86e7876d3707] Overlay temporal limpiado: temp/overlay-7f24576f-c20a-4bbb-885d-86e7876d3707.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/business/serene-office3.mp4"}
+{"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Generando overlay glassmorphism..."}
+{"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Overlay generado: temp/overlay-ea86a89c-8ad4-4385-9021-644e288e645d.png"}
+{"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Combinando video con overlay..."}
+{"fileSize":"2.03MB","level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Video generado exitosamente","outputPath":"output/social-video-ea86a89c-8ad4-4385-9021-644e288e645d.mp4","processingTime":"11945ms"}
+{"level":"info","message":"[ea86a89c-8ad4-4385-9021-644e288e645d] Overlay temporal limpiado: temp/overlay-ea86a89c-8ad4-4385-9021-644e288e645d.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista1.mp4"}
+{"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Generando overlay glassmorphism..."}
+{"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Overlay generado: temp/overlay-86d1e2dc-2fc7-4c64-9d8f-30610759effa.png"}
+{"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Combinando video con overlay..."}
+{"fileSize":"1.35MB","level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Video generado exitosamente","outputPath":"output/social-video-86d1e2dc-2fc7-4c64-9d8f-30610759effa.mp4","processingTime":"8034ms"}
+{"level":"info","message":"[86d1e2dc-2fc7-4c64-9d8f-30610759effa] Overlay temporal limpiado: temp/overlay-86d1e2dc-2fc7-4c64-9d8f-30610759effa.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/mountain-vista1.mp4"}
+{"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Generando overlay glassmorphism..."}
+{"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Overlay generado: temp/overlay-5aa6c431-5f1e-4649-b105-3edbec0e2e02.png"}
+{"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Combinando video con overlay..."}
+{"fileSize":"1.75MB","level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Video generado exitosamente","outputPath":"output/social-video-5aa6c431-5f1e-4649-b105-3edbec0e2e02.mp4","processingTime":"11448ms"}
+{"level":"info","message":"[5aa6c431-5f1e-4649-b105-3edbec0e2e02] Overlay temporal limpiado: temp/overlay-5aa6c431-5f1e-4649-b105-3edbec0e2e02.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Generando overlay glassmorphism..."}
+{"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Overlay generado: temp/overlay-a085a37a-99b7-4610-aebf-f915e68d9293.png"}
+{"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Combinando video con overlay..."}
+{"fileSize":"2.90MB","level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Video generado exitosamente","outputPath":"output/social-video-a085a37a-99b7-4610-aebf-f915e68d9293.mp4","processingTime":"12597ms"}
+{"level":"info","message":"[a085a37a-99b7-4610-aebf-f915e68d9293] Overlay temporal limpiado: temp/overlay-a085a37a-99b7-4610-aebf-f915e68d9293.png"}
+{"animation":"fade","duration":10,"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Iniciando generación de video","style":"glassmorphism","username":"@lexurbinac"}
+{"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Video de fondo validado: /Users/alexanderurbina/socialimggen/videos/nature/forest-wind1.mp4"}
+{"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Generando overlay glassmorphism..."}
+{"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Overlay generado: temp/overlay-1f081092-bbf9-4c25-a8b3-62f3b5ea7efc.png"}
+{"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Combinando video con overlay..."}
+{"fileSize":"2.90MB","level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Video generado exitosamente","outputPath":"output/social-video-1f081092-bbf9-4c25-a8b3-62f3b5ea7efc.mp4","processingTime":"13041ms"}
+{"level":"info","message":"[1f081092-bbf9-4c25-a8b3-62f3b5ea7efc] Overlay temporal limpiado: temp/overlay-1f081092-bbf9-4c25-a8b3-62f3b5ea7efc.png"}
